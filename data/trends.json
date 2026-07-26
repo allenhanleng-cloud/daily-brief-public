@@ -1,0 +1,254 @@
+{
+  "schema_version": "1.0",
+  "generated_at": "2026-07-26T23:21:17+08:00",
+  "status": "ready",
+  "trends": [
+    {
+      "trend_id": "trend_542b6a1120e4",
+      "trend_name": "AI营销操作系统",
+      "description": "广告业开始把 AI 平台当作增长系统竞争，而不只是把生成式 AI 当作创意工具。",
+      "related_item_ids": [
+        "item_3cb2fc4c4220"
+      ],
+      "sections": [
+        "广告与营销"
+      ],
+      "brands": [],
+      "platforms": [],
+      "first_seen_at": "2026-07-26",
+      "last_updated_at": "2026-07-26"
+    },
+    {
+      "trend_id": "trend_976c5faa8cb6",
+      "trend_name": "Agent运行时安全",
+      "description": "企业 Agent 进入生产环境后，安全边界正从模型输出审核前移到运行时全链路防护。",
+      "related_item_ids": [
+        "item_b47edb57f56f"
+      ],
+      "sections": [
+        "AI 应用"
+      ],
+      "brands": [],
+      "platforms": [],
+      "first_seen_at": "2026-07-26",
+      "last_updated_at": "2026-07-26"
+    },
+    {
+      "trend_id": "trend_d25d6d073862",
+      "trend_name": "CBeauty全球表达",
+      "description": "C-Beauty 的行业叙事正在从国货自嗨转向如何被全球市场理解和承认。",
+      "related_item_ids": [
+        "item_7b4bc0962389"
+      ],
+      "sections": [
+        "美妆护肤"
+      ],
+      "brands": [
+        "出海"
+      ],
+      "platforms": [],
+      "first_seen_at": "2026-07-26",
+      "last_updated_at": "2026-07-26"
+    },
+    {
+      "trend_id": "trend_9ee72747baaf",
+      "trend_name": "Nike中国渠道重构",
+      "description": "Nike 在中国的线上渠道重整继续发酵，核心是用更少入口换取更强的品牌和库存控制。",
+      "related_item_ids": [
+        "item_4ebce2c82fec"
+      ],
+      "sections": [
+        "运动穿搭"
+      ],
+      "brands": [
+        "Nike"
+      ],
+      "platforms": [],
+      "first_seen_at": "2026-07-26",
+      "last_updated_at": "2026-07-26"
+    },
+    {
+      "trend_id": "trend_856997b4b3c5",
+      "trend_name": "中国平台经济再定价",
+      "description": "海外投资者也在重新定价中国平台经济，阿里、京东、拼多多的关注点回到政策、外卖和即时零售竞争。",
+      "related_item_ids": [
+        "item_2969ce19fde0"
+      ],
+      "sections": [
+        "电商与内容电商"
+      ],
+      "brands": [],
+      "platforms": [
+        "京东",
+        "拼多多",
+        "阿里"
+      ],
+      "first_seen_at": "2026-07-26",
+      "last_updated_at": "2026-07-26"
+    },
+    {
+      "trend_id": "trend_1bbec28d6a2d",
+      "trend_name": "中国运动生活方式消费",
+      "description": "中国运动消费从球鞋服饰扩展到跑步、攀岩和高客单训练生活方式，Nike 的竞争对手正在变多。",
+      "related_item_ids": [
+        "item_8e8aae49f659"
+      ],
+      "sections": [
+        "运动穿搭"
+      ],
+      "brands": [
+        "Lululemon"
+      ],
+      "platforms": [],
+      "first_seen_at": "2026-07-26",
+      "last_updated_at": "2026-07-26"
+    },
+    {
+      "trend_id": "trend_2801d8805347",
+      "trend_name": "企业Agent生产化",
+      "description": "企业 AI 代理的成熟度评估正在从 PoC 展示转向治理、ROI 和人工兜底机制。",
+      "related_item_ids": [
+        "item_9c302cfd5823"
+      ],
+      "sections": [
+        "AI 应用"
+      ],
+      "brands": [],
+      "platforms": [],
+      "first_seen_at": "2026-07-26",
+      "last_updated_at": "2026-07-26"
+    },
+    {
+      "trend_id": "trend_4b02d82dcf35",
+      "trend_name": "国产运动品牌分化",
+      "description": "国产运动品牌上半年增长分化，专业细分和电商韧性开始决定经营质量。",
+      "related_item_ids": [
+        "item_988f1802fde3"
+      ],
+      "sections": [
+        "运动穿搭"
+      ],
+      "brands": [
+        "安踏",
+        "李宁"
+      ],
+      "platforms": [],
+      "first_seen_at": "2026-07-26",
+      "last_updated_at": "2026-07-26"
+    },
+    {
+      "trend_id": "trend_433e9362fe6b",
+      "trend_name": "小机制品牌案例",
+      "description": "亚太案例正在用小型机制创新替代大制作，品牌案例的价值更多来自洞察和执行结构。",
+      "related_item_ids": [
+        "item_38bb45fc035c"
+      ],
+      "sections": [
+        "广告与营销"
+      ],
+      "brands": [],
+      "platforms": [],
+      "first_seen_at": "2026-07-26",
+      "last_updated_at": "2026-07-26"
+    },
+    {
+      "trend_id": "trend_942c6ab4555b",
+      "trend_name": "抖音现货经营",
+      "description": "抖音电商继续把流量扶持绑定履约能力，内容电商的增长门槛正在转向现货供给。",
+      "related_item_ids": [
+        "item_772bf7b67364"
+      ],
+      "sections": [
+        "电商与内容电商"
+      ],
+      "brands": [],
+      "platforms": [
+        "抖音"
+      ],
+      "first_seen_at": "2026-07-26",
+      "last_updated_at": "2026-07-26"
+    },
+    {
+      "trend_id": "trend_ba9c8d90bd31",
+      "trend_name": "淘宝商品质量分",
+      "description": "淘宝把商品信息质量分与曝光权益进一步打通，搜索推荐正在更明确地奖励商品资产建设。",
+      "related_item_ids": [
+        "item_df74bbe9888a"
+      ],
+      "sections": [
+        "电商与内容电商"
+      ],
+      "brands": [],
+      "platforms": [
+        "淘宝"
+      ],
+      "first_seen_at": "2026-07-26",
+      "last_updated_at": "2026-07-26"
+    },
+    {
+      "trend_id": "trend_cbcb57b498ac",
+      "trend_name": "美妆直播货盘化",
+      "description": "百亿级内容公司下场做美妆，直播电商新变量从主播 IP 转向货盘组织能力。",
+      "related_item_ids": [
+        "item_c718385d3fbd"
+      ],
+      "sections": [
+        "美妆护肤"
+      ],
+      "brands": [],
+      "platforms": [],
+      "first_seen_at": "2026-07-26",
+      "last_updated_at": "2026-07-26"
+    },
+    {
+      "trend_id": "trend_3e66e5ad6b08",
+      "trend_name": "美妆社交电商AI化",
+      "description": "中国美妆竞争正在被 AI 搜索、社交电商和内容种草重塑，品牌增长更依赖可被平台理解的内容资产。",
+      "related_item_ids": [
+        "item_c165a8ae127c"
+      ],
+      "sections": [
+        "美妆护肤"
+      ],
+      "brands": [],
+      "platforms": [
+        "小红书",
+        "抖音"
+      ],
+      "first_seen_at": "2026-07-26",
+      "last_updated_at": "2026-07-26"
+    },
+    {
+      "trend_id": "trend_a8801bd359ca",
+      "trend_name": "老媒介创意再利用",
+      "description": "传统媒介重新被创意激活，品牌不必只靠线上互动才能制造参与感。",
+      "related_item_ids": [
+        "item_02d72f18d302"
+      ],
+      "sections": [
+        "广告与营销"
+      ],
+      "brands": [
+        "案例"
+      ],
+      "platforms": [],
+      "first_seen_at": "2026-07-26",
+      "last_updated_at": "2026-07-26"
+    },
+    {
+      "trend_id": "trend_70f92191af8b",
+      "trend_name": "高管AI能力",
+      "description": "CXO 亲自使用 AI 的深度，正在成为企业能否把 Agent 转成 P&L 影响的管理变量。",
+      "related_item_ids": [
+        "item_405a95d76df7"
+      ],
+      "sections": [
+        "AI 应用"
+      ],
+      "brands": [],
+      "platforms": [],
+      "first_seen_at": "2026-07-26",
+      "last_updated_at": "2026-07-26"
+    }
+  ]
+}

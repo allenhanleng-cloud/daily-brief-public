@@ -1,0 +1,505 @@
+{
+  "schema_version": "1.0",
+  "brief_date": "2026-07-26",
+  "generated_at": "2026-07-26T23:21:17+08:00",
+  "timezone": "Asia/Shanghai",
+  "status": "ready",
+  "edition": "evening",
+  "sections": [
+    {
+      "id": "ai-applications",
+      "name": "AI 应用",
+      "summary": "企业 Agent 进入生产环境后，安全边界正从模型输出审核前移到运行时全链路防护。；企业 AI 代理的成熟度评估正在从 PoC 展示转向治理、ROI 和人工兜底机制。；CXO 亲自使用 AI 的深度，正在成为企业能否把 Agent 转成 P&L 影响的管理变量。",
+      "items": [
+        {
+          "id": "item_b47edb57f56f",
+          "section": "AI 应用",
+          "trend_statement": "企业 Agent 进入生产环境后，安全边界正从模型输出审核前移到运行时全链路防护。",
+          "title": "以 AI 对抗 AI：构建越用越强的 Agent Runtime 安全防线｜AICon 深圳",
+          "original_title": "以 AI 对抗 AI：构建越用越强的 Agent Runtime 安全防线｜AICon 深圳",
+          "facts": [
+            "运行时风险成为瓶颈：文章把 Agent 风险拆成提示词注入、意图偏离、工具滥用和数据泄露，指出传统关键词和规则防御难以处理语义化攻击。",
+            "腾讯安全给出全链路框架：段昊彤的分享提纲覆盖事前提示词注入检测、事中意图偏离检测与 Agent 沙箱、事后 DLP 出站防护。",
+            "工程约束被直接提出：文章强调误报、时延、算力成本、模型选型和攻击者视角下的平衡，说明企业 Agent 安全已经不是“加一道审核”能解决的问题。",
+            "真实生产数据形成护城河：防护能力要依托真实攻击与运行数据持续自迭代，安全产品的竞争点从规则库转向数据飞轮。"
+          ],
+          "source_name": "InfoQ",
+          "source_url": "https://www.infoq.cn/article/fovd670ZuVMSMI7Z0zO4",
+          "published_at": "2026-07-25",
+          "event_date": null,
+          "market": "中国大陆",
+          "brands": [],
+          "platforms": [],
+          "tags": [
+            "AI/智能体",
+            "AI/治理",
+            "AI/安全"
+          ],
+          "related_trends": [
+            "Agent运行时安全"
+          ],
+          "recommended_for_deep_read": false
+        },
+        {
+          "id": "item_9c302cfd5823",
+          "section": "AI 应用",
+          "trend_statement": "企业 AI 代理的成熟度评估正在从 PoC 展示转向治理、ROI 和人工兜底机制。",
+          "title": "From AI Agent PoC to Production at CDO Magazine Boston Roundtable Exchange",
+          "original_title": "From AI Agent PoC to Production at CDO Magazine Boston Roundtable Exchange",
+          "facts": [
+            "讨论焦点转向生产化：CDO Magazine 记录的 Boston Roundtable 讨论了 AI agent maturity、从概念验证进入生产部署、治理与安全挑战。",
+            "人机协作仍是底线：与会者强调 human-in-the-loop safeguards，企业需要明确哪些节点由 AI 执行、哪些节点必须人审。",
+            "ROI 度量进入议程：圆桌把 agentic AI success 与 business impact 放在一起讨论，说明企业已经开始要求 Agent 证明可衡量的业务价值。",
+            "治理透明度是共识：马萨诸塞州副 CDO Mamta Singh 的观点指向责任使用、强治理、透明度和安全，而不是单纯追逐自动化。"
+          ],
+          "source_name": "CDO Magazine",
+          "source_url": "https://www.cdomagazine.tech/community/from-ai-agent-poc-to-production-at-cdo-magazine-boston-roundtable-exchange",
+          "published_at": "2026-07-24",
+          "event_date": null,
+          "market": "海外",
+          "brands": [],
+          "platforms": [],
+          "tags": [
+            "AI/企业应用",
+            "AI/治理",
+            "组织/工作流"
+          ],
+          "related_trends": [
+            "企业Agent生产化"
+          ],
+          "recommended_for_deep_read": false
+        },
+        {
+          "id": "item_405a95d76df7",
+          "section": "AI 应用",
+          "trend_statement": "CXO 亲自使用 AI 的深度，正在成为企业能否把 Agent 转成 P&L 影响的管理变量。",
+          "title": "AI capability will help CXOs shape the future of businesses",
+          "original_title": "AI capability will help CXOs shape the future of businesses",
+          "facts": [
+            "高管使用与企业成熟度脱节：文章引用 WRITER 调查称 94% 的 C-suite 每天至少使用 AI 30 分钟，97% 的公司过去一年已部署 AI agents，但 McKinsey 报告里只有 1% 认为公司达到 AI maturity。",
+            "战略风险来自不会用：作者认为高管如果不能用 AI 做决策、资本配置和工作流重设计，agentic AI 进入生产后会变成战略短板。",
+            "采用障碍仍然普遍：79% 的企业领导者报告 AI adoption 存在挑战，说明部署并不等于组织能力形成。",
+            "P&L 场景优先：文章把 AI 能力与决策速度、资本配置和利润表相关工作流相连，区别于普通工具效率叙事。"
+          ],
+          "source_name": "Frontier Enterprise",
+          "source_url": "https://www.frontier-enterprise.com/ai-capability-will-help-cxos-shape-the-future-of-businesses",
+          "published_at": "2026-07-24",
+          "event_date": null,
+          "market": "海外",
+          "brands": [],
+          "platforms": [],
+          "tags": [
+            "AI/企业应用",
+            "组织/管理",
+            "AI/智能体"
+          ],
+          "related_trends": [
+            "高管AI能力"
+          ],
+          "recommended_for_deep_read": false
+        }
+      ]
+    },
+    {
+      "id": "marketing-advertising",
+      "name": "广告与营销",
+      "summary": "传统媒介重新被创意激活，品牌不必只靠线上互动才能制造参与感。；亚太案例正在用小型机制创新替代大制作，品牌案例的价值更多来自洞察和执行结构。；广告业开始把 AI 平台当作增长系统竞争，而不只是把生成式 AI 当作创意工具。",
+      "items": [
+        {
+          "id": "item_02d72f18d302",
+          "section": "广告与营销",
+          "trend_statement": "传统媒介重新被创意激活，品牌不必只靠线上互动才能制造参与感。",
+          "title": "回到最原始的「报纸」上，老媒介也能玩出新花样",
+          "original_title": "回到最原始的「报纸」上，老媒介也能玩出新花样",
+          "facts": [
+            "报纸被重新设计成互动入口：文章梳理多个纸媒创意，把报纸版面、文字谜题和视觉机关变成读者需要停留和参与的媒介。",
+            "KINCHO 案例用文案制造胜负欲：驱蚊品牌通过连线小游戏和“看人下菜碟”的文案激发读者好奇心，让传统版面承接互动传播。",
+            "媒介价值来自场景匹配：文章指出纸媒的“慢”和“可触摸”在数字化时代反而形成差异化，适合承载需要细读、发现和二次传播的创意。",
+            "结论不是怀旧：核心不是纸媒复兴，而是老媒介只要能被重新编码，也能成为品牌注意力资产。"
+          ],
+          "source_name": "梅花网",
+          "source_url": "https://share.meihuainfo.com/article/6920806393971712",
+          "published_at": "2026-07-25",
+          "event_date": null,
+          "market": "中国大陆",
+          "brands": [
+            "案例"
+          ],
+          "platforms": [],
+          "tags": [
+            "营销/创意机制",
+            "营销/媒介",
+            "品牌/案例"
+          ],
+          "related_trends": [
+            "老媒介创意再利用"
+          ],
+          "recommended_for_deep_read": false
+        },
+        {
+          "id": "item_38bb45fc035c",
+          "section": "广告与营销",
+          "trend_statement": "亚太案例正在用小型机制创新替代大制作，品牌案例的价值更多来自洞察和执行结构。",
+          "title": "Friday Ad5: Fishame, Fair-Weather Fans and Cafe-Window Theatre",
+          "original_title": "Friday Ad5: Fishame, Fair-Weather Fans and Cafe-Window Theatre",
+          "facts": [
+            "五个案例覆盖多场景：Branding in Asia 本期整理 SaveLIFE road safety、Sealord fishame、Lifebuoy Indonesia 世界杯、Cadbury Malaysia café window theatre、Income Insurance home memory campaign。",
+            "SaveLIFE 用经济账重构安全沟通：McCann Worldgroup 的七支数字短片把危险驾驶从道德批评改写成“亏本交易”，并请卡车、出租车、摩托车社群创作者参与，YouTube 超 700 万观看，Instagram/Facebook 合计超 500 万。",
+            "Cadbury 把包装格子变成剧场：Ogilvy Malaysia 在吉隆坡咖啡馆窗户装透明 LED 屏，把 Dairy Milk 包装网格延展为现场表演和社交预热。",
+            "Income Insurance 转换保险叙事：Leo Singapore 用 Milieu Insight 对 200 位房主的调研切入，发现多数知道 fire insurance 与 home insurance 不同，但只有三成理解保障差异。"
+          ],
+          "source_name": "Branding in Asia",
+          "source_url": "https://www.brandinginasia.com/friday-ad5-fishame-fair-weather-fans-and-cafe-window-theatre",
+          "published_at": "2026-07-24",
+          "event_date": null,
+          "market": "海外",
+          "brands": [],
+          "platforms": [],
+          "tags": [
+            "营销/品牌案例",
+            "营销/创意机制",
+            "消费者/洞察"
+          ],
+          "related_trends": [
+            "小机制品牌案例"
+          ],
+          "recommended_for_deep_read": false
+        },
+        {
+          "id": "item_3cb2fc4c4220",
+          "section": "广告与营销",
+          "trend_statement": "广告业开始把 AI 平台当作增长系统竞争，而不只是把生成式 AI 当作创意工具。",
+          "title": "2026 WAIC ‘SHAI Forum’ in Shanghai ends with focus on AI-driven transformation of advertising",
+          "original_title": "2026 WAIC ‘SHAI Forum’ in Shanghai ends with focus on AI-driven transformation of advertising",
+          "facts": [
+            "广告行业首次集体进入 WAIC：SHAI Forum 在上海西岸举行，吸引 500 多名来自创意代理、营销服务、媒体平台、品牌、技术公司和独立创作者的参与者。",
+            "平台化工具成为主线：LEO Digital 展示 H.A.S. 与 CubSwarm，WPP 推出 WPP Open 中国版，Vision Star 展示 Galaxy AI Full-Chain Workspace 2.0，eclicktech 发布 Global Growth AI OS。",
+            "品牌被 AI 理解成为新竞争点：论坛讨论消费者发现品牌从关键词搜索转向 AI 推荐，品牌需要整理自有知识，让 AI 系统能理解、引用和推荐。",
+            "人的角色变成判断者：与会者认为 AI 可处理策略、内容生成和媒体优化等执行任务，但广告人将更多负责定义问题、审查输出和选择值得推进的创意。"
+          ],
+          "source_name": "Campaign Brief Asia",
+          "source_url": "https://campaignbriefasia.com/2026/07/22/2026-waic-shai-forum-in-shanghai-ends-with-focus-on-ai-driven-transformation-of-advertising",
+          "published_at": "2026-07-22",
+          "event_date": null,
+          "market": "海外",
+          "brands": [],
+          "platforms": [],
+          "tags": [
+            "营销/AI营销",
+            "营销/代理商",
+            "AI/工作流"
+          ],
+          "related_trends": [
+            "AI营销操作系统"
+          ],
+          "recommended_for_deep_read": false
+        }
+      ]
+    },
+    {
+      "id": "ecommerce-content-commerce",
+      "name": "电商与内容电商",
+      "summary": "抖音电商继续把流量扶持绑定履约能力，内容电商的增长门槛正在转向现货供给。；淘宝把商品信息质量分与曝光权益进一步打通，搜索推荐正在更明确地奖励商品资产建设。；海外投资者也在重新定价中国平台经济，阿里、京东、拼多多的关注点回到政策、外卖和即时零售竞争。",
+      "items": [
+        {
+          "id": "item_772bf7b67364",
+          "section": "电商与内容电商",
+          "trend_statement": "抖音电商继续把流量扶持绑定履约能力，内容电商的增长门槛正在转向现货供给。",
+          "title": "刺激夏日新消费，抖音商城“现货日”加大现货商家扶持力度",
+          "original_title": "刺激夏日新消费，抖音商城“现货日”加大现货商家扶持力度",
+          "facts": [
+            "活动直接绑定现货履约：7 月 22 日至 26 日，抖音商城推出“现货日”，围绕现货商品投入曝光扶持、商品打标和活动会场资源。",
+            "主打夏日服饰场景：活动聚焦防晒服、T 恤、Polo 衫、短裤、连衣裙、半身裙等应季服饰，以“48 小时内发货，晚必赔”为服务主题。",
+            "618 已验证经营效果：文章提到女装商家“陈什么陈”参与现货日后，直播间单场曝光较近三个月平均水平提升约 30%，成交规模较日常增长。",
+            "达人案例有明确转化：活动首日有红人女装达人现货专场单场销售额突破 500 万元，达人“坤总”直播间观看人数较 6 月均值提升近 2 倍。"
+          ],
+          "source_name": "中国青年网/消费日报",
+          "source_url": "https://d.youth.cn/xw360/202607/t20260725_16783095.htm",
+          "published_at": "2026-07-25",
+          "event_date": null,
+          "market": "中国大陆",
+          "brands": [],
+          "platforms": [
+            "抖音"
+          ],
+          "tags": [
+            "平台/抖音",
+            "电商/履约",
+            "电商/内容电商"
+          ],
+          "related_trends": [
+            "抖音现货经营"
+          ],
+          "recommended_for_deep_read": false
+        },
+        {
+          "id": "item_df74bbe9888a",
+          "section": "电商与内容电商",
+          "trend_statement": "淘宝把商品信息质量分与曝光权益进一步打通，搜索推荐正在更明确地奖励商品资产建设。",
+          "title": "淘宝将调整“商品扶优质量分”：拓宽优质商品覆盖面 对新品爆品增加曝光",
+          "original_title": "淘宝将调整“商品扶优质量分”：拓宽优质商品覆盖面 对新品爆品增加曝光",
+          "facts": [
+            "扶优门槛被下调：淘宝征求意见中，将扶优质量分生效条件从基础质量分 100 分调整为基础质量分 ≥80 分。",
+            "新品爆品获得额外曝光：当商品扶优质量分 ≥20 分并满足活动要求时，商品可能通过新品、超级单品等平台活动获得额外曝光机会。",
+            "信息质量影响流量场域：基础质量分低于 60 分的商品，会在搜索、首猜、拍立淘、大促会场页等流量场域受到曝光限制。",
+            "商家运营重点更细：平台鼓励商家维护 SKU、标题、图片、视频、类目和属性等信息质量，本质上把商品内容资产纳入流量分配。"
+          ],
+          "source_name": "新浪科技/亿邦动力",
+          "source_url": "https://finance.sina.com.cn/tech/roll/2026-07-22/doc-iniispmx1937716.shtml",
+          "published_at": "2026-07-22",
+          "event_date": null,
+          "market": "中国大陆",
+          "brands": [],
+          "platforms": [
+            "淘宝"
+          ],
+          "tags": [
+            "平台/淘宝",
+            "电商/平台规则",
+            "电商/搜索推荐"
+          ],
+          "related_trends": [
+            "淘宝商品质量分"
+          ],
+          "recommended_for_deep_read": false
+        },
+        {
+          "id": "item_2969ce19fde0",
+          "section": "电商与内容电商",
+          "trend_statement": "海外投资者也在重新定价中国平台经济，阿里、京东、拼多多的关注点回到政策、外卖和即时零售竞争。",
+          "title": "Alibaba, JD.com, and PDD Stocks Rally After China Politburo Meeting. What It Means for Tech.",
+          "original_title": "Alibaba, JD.com, and PDD Stocks Rally After China Politburo Meeting. What It Means for Tech.",
+          "facts": [
+            "平台股受到政策会议影响：Barron’s 关注中国政治局会议后，阿里巴巴、京东、拼多多等中概平台股的市场反应。",
+            "竞争焦点转向本地即时零售：报道把电商平台表现与外卖、即时零售和平台经济政策预期联系起来，而不是美国零售大促。",
+            "海外视角可作风险对照：对中国电商的海外定价逻辑主要看监管表态、补贴竞争和增长修复，适合作为国内平台报道的补充。"
+          ],
+          "source_name": "Barron's",
+          "source_url": "https://www.barrons.com/articles/alibaba-jd-com-pdd-stocks-china-politburo-meeting-8a32d583",
+          "published_at": "2026-07-26",
+          "event_date": null,
+          "market": "海外",
+          "brands": [],
+          "platforms": [
+            "京东",
+            "拼多多",
+            "阿里"
+          ],
+          "tags": [
+            "平台/阿里",
+            "平台/京东",
+            "平台/拼多多"
+          ],
+          "related_trends": [
+            "中国平台经济再定价"
+          ],
+          "recommended_for_deep_read": false
+        }
+      ]
+    },
+    {
+      "id": "beauty-skincare",
+      "name": "美妆护肤",
+      "summary": "百亿级内容公司下场做美妆，直播电商新变量从主播 IP 转向货盘组织能力。；C-Beauty 的行业叙事正在从国货自嗨转向如何被全球市场理解和承认。；中国美妆竞争正在被 AI 搜索、社交电商和内容种草重塑，品牌增长更依赖可被平台理解的内容资产。",
+      "items": [
+        {
+          "id": "item_c718385d3fbd",
+          "section": "美妆护肤",
+          "trend_statement": "百亿级内容公司下场做美妆，直播电商新变量从主播 IP 转向货盘组织能力。",
+          "title": "前员工带“货盘”起家，百亿公司下场做美妆",
+          "original_title": "前员工带“货盘”起家，百亿公司下场做美妆",
+          "facts": [
+            "东方甄选系创业进入美妆：品观/搜狐报道，东方甄选前员工团队围绕“货盘”能力切入美妆，背后是内容电商主播资源、供应链和品类选择的再组合。",
+            "美妆是高毛利但高信任门槛品类：文章把美妆放在直播电商延展语境下观察，区别于普通零食、生鲜和日用货盘，品控、功效表达和售后会直接影响复购。",
+            "内容公司不再只卖流量：这类玩家进入美妆，意味着主播 IP 的价值必须和选品、价格带、品牌授权、售后履约形成闭环。",
+            "对传统品牌是渠道提醒：新直播主体可能先从白牌、代工和低价套装起量，但长期能否留住用户取决于产品力和品牌资产，而不是单次声量。"
+          ],
+          "source_name": "品观/搜狐",
+          "source_url": "https://www.sohu.com/a/1051189323_121124567",
+          "published_at": "2026-07-24",
+          "event_date": null,
+          "market": "中国大陆",
+          "brands": [],
+          "platforms": [],
+          "tags": [
+            "美妆/渠道",
+            "直播电商/达人",
+            "电商/货盘"
+          ],
+          "related_trends": [
+            "美妆直播货盘化"
+          ],
+          "recommended_for_deep_read": false
+        },
+        {
+          "id": "item_7b4bc0962389",
+          "section": "美妆护肤",
+          "trend_statement": "C-Beauty 的行业叙事正在从国货自嗨转向如何被全球市场理解和承认。",
+          "title": "世界以 C-Beauty 呼唤我，我们如何作答",
+          "original_title": "世界以 C-Beauty 呼唤我，我们如何作答",
+          "facts": [
+            "活动议题聚焦 C-Beauty：SocialBeta 首页显示该活动以“世界以 C-Beauty 呼唤我，我们如何作答”为主题，归类为化妆品大会内容。",
+            "讨论重心是产业表达：从活动文案看，它不是单品牌新品，而是围绕中国美妆如何回应全球市场、行业话语和品牌表达。",
+            "适合作为趋势入口：这类行业会议内容可继续追踪嘉宾观点、品牌案例和后续白皮书，尤其适合沉淀 C-Beauty 全球化表达。"
+          ],
+          "source_name": "SocialBeta",
+          "source_url": "https://socialbeta.com/",
+          "published_at": "2026-07-26",
+          "event_date": null,
+          "market": "中国大陆",
+          "brands": [
+            "出海"
+          ],
+          "platforms": [],
+          "tags": [
+            "美妆/C-beauty",
+            "品牌/出海",
+            "营销/行业会议"
+          ],
+          "related_trends": [
+            "CBeauty全球表达"
+          ],
+          "recommended_for_deep_read": false
+        },
+        {
+          "id": "item_c165a8ae127c",
+          "section": "美妆护肤",
+          "trend_statement": "中国美妆竞争正在被 AI 搜索、社交电商和内容种草重塑，品牌增长更依赖可被平台理解的内容资产。",
+          "title": "How AI and Social Commerce Are Redefining China's Beauty Market",
+          "original_title": "How AI and Social Commerce Are Redefining China's Beauty Market",
+          "facts": [
+            "中国美妆增长由内容平台驱动：文章把中国美妆市场的变化放在 AI、社交电商、内容发现和消费者互动的组合里观察，而不是只看单一渠道销售。",
+            "AI 改变搜索和推荐入口：品牌需要让产品功效、成分、使用场景和用户反馈更容易被平台算法识别，否则很难在 AI 搜索和推荐流里获得持续曝光。",
+            "社交电商压缩种草到交易链路：小红书、抖音等平台让内容、达人、评价和购买更紧密地连接，品牌增长不再只是投放问题，而是内容资产和转化效率问题。",
+            "C-Beauty 需要更清晰的数字表达：对本土品牌来说，产品差异、成分故事和消费者证据要被组织成平台可分发、用户可理解的内容结构。"
+          ],
+          "source_name": "China Cosmetics / Beauty Independent",
+          "source_url": "https://chinacosmetics.com/market-trends/how-ai-and-social-commerce-are-redefining-chinas-beauty-market",
+          "published_at": "2026-07-20",
+          "event_date": null,
+          "market": "海外",
+          "brands": [],
+          "platforms": [
+            "小红书",
+            "抖音"
+          ],
+          "tags": [
+            "美妆/C-beauty",
+            "平台/小红书",
+            "平台/抖音"
+          ],
+          "related_trends": [
+            "美妆社交电商AI化"
+          ],
+          "recommended_for_deep_read": false
+        }
+      ]
+    },
+    {
+      "id": "sportswear-athleisure",
+      "name": "运动穿搭",
+      "summary": "国产运动品牌上半年增长分化，专业细分和电商韧性开始决定经营质量。；Nike 在中国的线上渠道重整继续发酵，核心是用更少入口换取更强的品牌和库存控制。；中国运动消费从球鞋服饰扩展到跑步、攀岩和高客单训练生活方式，Nike 的竞争对手正在变多。",
+      "items": [
+        {
+          "id": "item_988f1802fde3",
+          "section": "运动穿搭",
+          "trend_statement": "国产运动品牌上半年增长分化，专业细分和电商韧性开始决定经营质量。",
+          "title": "上半年，李宁、安踏们销售承压丨消费参考",
+          "original_title": "上半年，李宁、安踏们销售承压丨消费参考",
+          "facts": [
+            "李宁二季度流水下滑：李宁公告显示，二季度全平台零售流水录得低单位数下降，线下直营和批发分别低单位数、中单位数下滑，电商录得中单位数增长。",
+            "品类表现出现分化：跑步/运动生活环比走弱并转跌，篮球跌幅扩大，羽毛球/乒乓球受高基数和需求转弱影响增速显著走弱，户外和金标系列增速亮眼但规模有限。",
+            "特步主品牌也承压：特步二季度和上半年主品牌流水分别同比中单位数、低单位数下降，相比一季度低单位数增长明显转弱。",
+            "安踏仍增长但放缓：二季度安踏主品牌和 FILA 均为低单位数增长，其他品牌增长 25%-30%，较一季度 40%-45% 的高增速回落。"
+          ],
+          "source_name": "21财经",
+          "source_url": "https://m.21jingji.com/article/20260721/herald/7c03f54b989a9a8debc57a3cee4542a3.html",
+          "published_at": "2026-07-21",
+          "event_date": null,
+          "market": "中国大陆",
+          "brands": [
+            "安踏",
+            "李宁"
+          ],
+          "platforms": [],
+          "tags": [
+            "品牌/安踏",
+            "品牌/李宁",
+            "运动/经营数据"
+          ],
+          "related_trends": [
+            "国产运动品牌分化"
+          ],
+          "recommended_for_deep_read": false
+        },
+        {
+          "id": "item_4ebce2c82fec",
+          "section": "运动穿搭",
+          "trend_statement": "Nike 在中国的线上渠道重整继续发酵，核心是用更少入口换取更强的品牌和库存控制。",
+          "title": "Nike strategy shifts in China after sales slump",
+          "original_title": "Nike strategy shifts in China after sales slump",
+          "facts": [
+            "中国市场承压触发调整：Caixin Global 聚焦 Nike 在销售下滑后的中国策略变化，延续近期线上分销收缩线索。",
+            "渠道集中是核心动作：报道关注 Nike 从分散第三方销售转向更受控的官方线上入口，以减少货盘混乱、假货和价格失序。",
+            "大中华区修复不只靠营销：这类调整意味着 Nike 在中国同时处理渠道、库存、产品本地化和品牌信任问题。"
+          ],
+          "source_name": "Caixin Global",
+          "source_url": "https://www.caixinglobal.com/2026-07-25/nike-strategy-shifts-in-china-after-sales-slump-102343227.html",
+          "published_at": "2026-07-25",
+          "event_date": null,
+          "market": "中国大陆",
+          "brands": [
+            "Nike"
+          ],
+          "platforms": [],
+          "tags": [
+            "品牌/Nike",
+            "电商/渠道",
+            "运动/零售"
+          ],
+          "related_trends": [
+            "Nike中国渠道重构"
+          ],
+          "recommended_for_deep_read": false
+        },
+        {
+          "id": "item_8e8aae49f659",
+          "section": "运动穿搭",
+          "trend_statement": "中国运动消费从球鞋服饰扩展到跑步、攀岩和高客单训练生活方式，Nike 的竞争对手正在变多。",
+          "title": "Running, Rock Climbing and Other Sports Are Taking Off in China. Pricey Workout Clothes, Too.",
+          "original_title": "Running, Rock Climbing and Other Sports Are Taking Off in China. Pricey Workout Clothes, Too.",
+          "facts": [
+            "运动生活方式扩张：WSJ 把中国跑步、攀岩等运动兴起与高价运动服消费放在一起观察，说明用户需求不只集中在传统篮球、足球和跑鞋。",
+            "高客单品牌受益：报道把 Lululemon、Alo 等运动生活方式品牌放进中国健身消费语境，显示高价训练服、瑜伽服和日常运动穿搭仍有增长空间。",
+            "Nike 面临更多替代选择：当消费者把运动装备和日常穿搭、社群活动、场馆体验绑定，Nike 的竞争不再只是 Adidas，也包括 Lululemon、On、Hoka、Salomon 等场景品牌。",
+            "渠道和社群同样关键：跑步、攀岩和健身热度意味着品牌需要用线下活动、会员社群和专业场景维持关系，而不是只靠大促和明星代言。"
+          ],
+          "source_name": "Wall Street Journal",
+          "source_url": "https://www.wsj.com/business/retail/china-fitness-workout-atheltic-wear-lululemon-alo-21e05971",
+          "published_at": "2026-07-24",
+          "event_date": null,
+          "market": "海外",
+          "brands": [
+            "Lululemon"
+          ],
+          "platforms": [],
+          "tags": [
+            "运动/生活方式",
+            "运动/跑步",
+            "品牌/Lululemon"
+          ],
+          "related_trends": [
+            "中国运动生活方式消费"
+          ],
+          "recommended_for_deep_read": false
+        }
+      ]
+    }
+  ],
+  "cross_section_observations": [],
+  "quality_check": {
+    "source_links_checked": true,
+    "duplicates_checked": true,
+    "facts_checked": true
+  }
+}
