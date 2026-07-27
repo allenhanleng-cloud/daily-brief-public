@@ -1,8 +1,23 @@
 {
   "schema_version": "1.0",
-  "generated_at": "2026-07-26T23:41:37+08:00",
+  "generated_at": "2026-07-27T21:55:21+08:00",
   "status": "ready",
   "trends": [
+    {
+      "trend_id": "trend_f8c1472ce869",
+      "trend_name": "AI营销从概念包装转向可交付能力",
+      "description": "Agency 用 AI 抢 pitch 的风险浮出水面，广告客户开始要求从概念承诺回到交付证据。",
+      "related_item_ids": [
+        "item_e7bd82271ee1"
+      ],
+      "sections": [
+        "广告与营销"
+      ],
+      "brands": [],
+      "platforms": [],
+      "first_seen_at": "2026-07-27",
+      "last_updated_at": "2026-07-27"
+    },
     {
       "trend_id": "trend_542b6a1120e4",
       "trend_name": "AI营销操作系统",
@@ -17,6 +32,21 @@
       "platforms": [],
       "first_seen_at": "2026-07-26",
       "last_updated_at": "2026-07-26"
+    },
+    {
+      "trend_id": "trend_18555d06e437",
+      "trend_name": "Agent产业从展示走向交付",
+      "description": "Agent 产业会议的关注点从模型能力转向应用路径、产业组织和交付机制。",
+      "related_item_ids": [
+        "item_9b766769e3c4"
+      ],
+      "sections": [
+        "AI 应用"
+      ],
+      "brands": [],
+      "platforms": [],
+      "first_seen_at": "2026-07-27",
+      "last_updated_at": "2026-07-27"
     },
     {
       "trend_id": "trend_976c5faa8cb6",
@@ -49,6 +79,21 @@
       "platforms": [],
       "first_seen_at": "2026-07-26",
       "last_updated_at": "2026-07-26"
+    },
+    {
+      "trend_id": "trend_b42c2d429ee8",
+      "trend_name": "Nike中国从渠道纠偏转向本土产品重建",
+      "description": "Nike 中国收缩线上分销只是第一步，真正挑战是用本土产品速度重新赢回消费者。",
+      "related_item_ids": [
+        "item_b602b2c27476"
+      ],
+      "sections": [
+        "运动穿搭"
+      ],
+      "brands": [],
+      "platforms": [],
+      "first_seen_at": "2026-07-27",
+      "last_updated_at": "2026-07-27"
     },
     {
       "trend_id": "trend_9ee72747baaf",
@@ -104,6 +149,53 @@
       "last_updated_at": "2026-07-26"
     },
     {
+      "trend_id": "trend_af574c963734",
+      "trend_name": "产业带电商从低价流量转向平台扶持体系",
+      "description": "京东用产业带小店和爆品计划补齐低价供给，平台竞争从流量转向商家经营系统。",
+      "related_item_ids": [
+        "item_c394d9b5e7b4"
+      ],
+      "sections": [
+        "电商与内容电商"
+      ],
+      "brands": [],
+      "platforms": [
+        "京东"
+      ],
+      "first_seen_at": "2026-07-27",
+      "last_updated_at": "2026-07-27"
+    },
+    {
+      "trend_id": "trend_4cc0dc020bf3",
+      "trend_name": "企业AI从试点走向流程重构",
+      "description": "金融 Agent 的价值开始从“能回答”转向可追踪、可复盘的研究流程。",
+      "related_item_ids": [
+        "item_15d2408b4a07"
+      ],
+      "sections": [
+        "AI 应用"
+      ],
+      "brands": [],
+      "platforms": [],
+      "first_seen_at": "2026-07-27",
+      "last_updated_at": "2026-07-27"
+    },
+    {
+      "trend_id": "trend_ca56b6062d1a",
+      "trend_name": "企业AI治理从内部系统扩展到外部协作",
+      "description": "企业 Agent 开始突破公司边界，治理重点从内部自动化转向跨系统协作风险。",
+      "related_item_ids": [
+        "item_eae07e46883c"
+      ],
+      "sections": [
+        "AI 应用"
+      ],
+      "brands": [],
+      "platforms": [],
+      "first_seen_at": "2026-07-27",
+      "last_updated_at": "2026-07-27"
+    },
+    {
       "trend_id": "trend_2801d8805347",
       "trend_name": "企业Agent生产化",
       "description": "企业 AI 代理的成熟度评估正在从 PoC 展示转向治理、ROI 和人工兜底机制。",
@@ -117,6 +209,54 @@
       "platforms": [],
       "first_seen_at": "2026-07-26",
       "last_updated_at": "2026-07-26"
+    },
+    {
+      "trend_id": "trend_6d995c5f8edb",
+      "trend_name": "全渠道履约从配送成本转向门店效率",
+      "description": "海外电商的履约竞争回到门店资产，BOPIS 成为线上增长与线下零售的连接点。",
+      "related_item_ids": [
+        "item_85ef55fcd837"
+      ],
+      "sections": [
+        "电商与内容电商"
+      ],
+      "brands": [],
+      "platforms": [],
+      "first_seen_at": "2026-07-27",
+      "last_updated_at": "2026-07-27"
+    },
+    {
+      "trend_id": "trend_6e8013ab7e06",
+      "trend_name": "即时零售从规模补贴转向仓店精细化运营",
+      "description": "即时零售仓店进入模式分化期，淘宝闪购与美团代表两套不同的平台治理逻辑。",
+      "related_item_ids": [
+        "item_d5524bf32e88"
+      ],
+      "sections": [
+        "电商与内容电商"
+      ],
+      "brands": [],
+      "platforms": [
+        "淘宝闪购",
+        "美团"
+      ],
+      "first_seen_at": "2026-07-27",
+      "last_updated_at": "2026-07-27"
+    },
+    {
+      "trend_id": "trend_23c9c80b2255",
+      "trend_name": "国产运动品牌从规模增长进入精细库存管理",
+      "description": "李宁二季度渠道承压，但电商相对韧性说明国产运动品牌的调整重点仍在货品与折扣。",
+      "related_item_ids": [
+        "item_81688abd9828"
+      ],
+      "sections": [
+        "运动穿搭"
+      ],
+      "brands": [],
+      "platforms": [],
+      "first_seen_at": "2026-07-27",
+      "last_updated_at": "2026-07-27"
     },
     {
       "trend_id": "trend_4b02d82dcf35",
@@ -169,6 +309,23 @@
       "last_updated_at": "2026-07-26"
     },
     {
+      "trend_id": "trend_15ed12446c99",
+      "trend_name": "护肤消费从流量种草转向成分与功效验证",
+      "description": "中国护肤电商仍是核心战场，功效、成分和渠道迁移比单纯达人热度更重要。",
+      "related_item_ids": [
+        "item_b667fc515a8c"
+      ],
+      "sections": [
+        "美妆护肤"
+      ],
+      "brands": [],
+      "platforms": [
+        "小红书"
+      ],
+      "first_seen_at": "2026-07-27",
+      "last_updated_at": "2026-07-27"
+    },
+    {
       "trend_id": "trend_ba9c8d90bd31",
       "trend_name": "淘宝商品质量分",
       "description": "淘宝把商品信息质量分与曝光权益进一步打通，搜索推荐正在更明确地奖励商品资产建设。",
@@ -184,6 +341,58 @@
       ],
       "first_seen_at": "2026-07-26",
       "last_updated_at": "2026-07-26"
+    },
+    {
+      "trend_id": "trend_3cf60e0ab50b",
+      "trend_name": "用户反馈驱动产品营销闭环",
+      "description": "把用户差评变成产品迭代资产，正在成为 DTC 品牌增长的一种可复盘方法。",
+      "related_item_ids": [
+        "item_e560c26cb137"
+      ],
+      "sections": [
+        "广告与营销"
+      ],
+      "brands": [
+        "BÉIS"
+      ],
+      "platforms": [],
+      "first_seen_at": "2026-07-27",
+      "last_updated_at": "2026-07-27"
+    },
+    {
+      "trend_id": "trend_ff5d41560f04",
+      "trend_name": "美妆品牌从直播冲量转向利润经营",
+      "description": "中国美妆零售连续增长，但品牌重心从高成本直播转向更可盈利的货架与内容组合。",
+      "related_item_ids": [
+        "item_bf27f1671725"
+      ],
+      "sections": [
+        "美妆护肤"
+      ],
+      "brands": [],
+      "platforms": [
+        "抖音"
+      ],
+      "first_seen_at": "2026-07-27",
+      "last_updated_at": "2026-07-27"
+    },
+    {
+      "trend_id": "trend_cd7fa6f77dd5",
+      "trend_name": "美妆电商从单平台增长转向多平台分化",
+      "description": "美妆电商上半年仍增长，但平台与品类分化正在重塑品牌经营优先级。",
+      "related_item_ids": [
+        "item_5a5f567da4ed"
+      ],
+      "sections": [
+        "美妆护肤"
+      ],
+      "brands": [],
+      "platforms": [
+        "天猫",
+        "抖音"
+      ],
+      "first_seen_at": "2026-07-27",
+      "last_updated_at": "2026-07-27"
     },
     {
       "trend_id": "trend_cbcb57b498ac",
@@ -234,6 +443,36 @@
       "platforms": [],
       "first_seen_at": "2026-07-26",
       "last_updated_at": "2026-07-26"
+    },
+    {
+      "trend_id": "trend_6b85d26743da",
+      "trend_name": "营销AI从效率导向转向效果证明",
+      "description": "营销组织的 AI 使用正在从效率实验进入效果审计，预算不再只奖励“用了工具”。",
+      "related_item_ids": [
+        "item_8796d4e63ffc"
+      ],
+      "sections": [
+        "广告与营销"
+      ],
+      "brands": [],
+      "platforms": [],
+      "first_seen_at": "2026-07-27",
+      "last_updated_at": "2026-07-27"
+    },
+    {
+      "trend_id": "trend_3e91d566966c",
+      "trend_name": "运动品牌竞争从产品发布延伸到电商组织能力",
+      "description": "运动零售的人才流向显示，品牌竞争正在向电商运营和渠道效率倾斜。",
+      "related_item_ids": [
+        "item_13de30cead52"
+      ],
+      "sections": [
+        "运动穿搭"
+      ],
+      "brands": [],
+      "platforms": [],
+      "first_seen_at": "2026-07-27",
+      "last_updated_at": "2026-07-27"
     },
     {
       "trend_id": "trend_70f92191af8b",
