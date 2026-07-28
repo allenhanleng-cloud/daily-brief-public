@@ -1,6 +1,6 @@
 {
   "schema_version": "1.0",
-  "generated_at": "2026-07-27T21:55:21+08:00",
+  "generated_at": "2026-07-28T21:49:28+08:00",
   "status": "ready",
   "trends": [
     {
@@ -113,6 +113,24 @@
       "last_updated_at": "2026-07-26"
     },
     {
+      "trend_id": "trend_e7aa4d80fdeb",
+      "trend_name": "专业跑鞋品牌从爆发增长进入高基数检验",
+      "description": "Hoka 仍是 Deckers 增长核心，但高基数后市场开始重新审视跑鞋品牌的可持续增速。",
+      "related_item_ids": [
+        "item_b03cdaba12ef"
+      ],
+      "sections": [
+        "运动穿搭"
+      ],
+      "brands": [
+        "Deckers",
+        "Hoka"
+      ],
+      "platforms": [],
+      "first_seen_at": "2026-07-28",
+      "last_updated_at": "2026-07-28"
+    },
+    {
       "trend_id": "trend_856997b4b3c5",
       "trend_name": "中国平台经济再定价",
       "description": "海外投资者也在重新定价中国平台经济，阿里、京东、拼多多的关注点回到政策、外卖和即时零售竞争。",
@@ -166,6 +184,21 @@
       "last_updated_at": "2026-07-27"
     },
     {
+      "trend_id": "trend_04d88dbf16a6",
+      "trend_name": "企业AI从模型能力走向数据与流程资产",
+      "description": "企业 AI 的价值正在从模型演示转向数据确权、安全流通和可交易资产。",
+      "related_item_ids": [
+        "item_9205408629b1"
+      ],
+      "sections": [
+        "AI 应用"
+      ],
+      "brands": [],
+      "platforms": [],
+      "first_seen_at": "2026-07-28",
+      "last_updated_at": "2026-07-28"
+    },
+    {
       "trend_id": "trend_4cc0dc020bf3",
       "trend_name": "企业AI从试点走向流程重构",
       "description": "金融 Agent 的价值开始从“能回答”转向可追踪、可复盘的研究流程。",
@@ -211,6 +244,39 @@
       "last_updated_at": "2026-07-26"
     },
     {
+      "trend_id": "trend_eb9cd31e8c41",
+      "trend_name": "企业Agent落地依赖标准化连接层",
+      "description": "企业采用智能体后，集成标准和任务协议成为规模化落地的关键门槛。",
+      "related_item_ids": [
+        "item_bb4ed95c40cf"
+      ],
+      "sections": [
+        "AI 应用"
+      ],
+      "brands": [],
+      "platforms": [],
+      "first_seen_at": "2026-07-28",
+      "last_updated_at": "2026-07-28"
+    },
+    {
+      "trend_id": "trend_79a4ff9a25fa",
+      "trend_name": "体育赛事资产需要转化为零售结果",
+      "description": "世界杯让 Adidas 的赛事资产转化为门店流量和球衣销售，耐克面临足球场景的转化压力。",
+      "related_item_ids": [
+        "item_20f954c78733"
+      ],
+      "sections": [
+        "运动穿搭"
+      ],
+      "brands": [
+        "Adidas",
+        "Nike"
+      ],
+      "platforms": [],
+      "first_seen_at": "2026-07-28",
+      "last_updated_at": "2026-07-28"
+    },
+    {
       "trend_id": "trend_6d995c5f8edb",
       "trend_name": "全渠道履约从配送成本转向门店效率",
       "description": "海外电商的履约竞争回到门店资产，BOPIS 成为线上增长与线下零售的连接点。",
@@ -224,6 +290,38 @@
       "platforms": [],
       "first_seen_at": "2026-07-27",
       "last_updated_at": "2026-07-27"
+    },
+    {
+      "trend_id": "trend_f56ea04735b2",
+      "trend_name": "内容电商从头部主播驱动转向生态治理",
+      "description": "抖音电商从流量扩张转向生态治理，合规和店播能力成为商家增长门槛。",
+      "related_item_ids": [
+        "item_630a048c0d15"
+      ],
+      "sections": [
+        "电商与内容电商"
+      ],
+      "brands": [],
+      "platforms": [
+        "抖音"
+      ],
+      "first_seen_at": "2026-07-28",
+      "last_updated_at": "2026-07-28"
+    },
+    {
+      "trend_id": "trend_aa06153fd52a",
+      "trend_name": "功效美妆从成分营销走向科学信任",
+      "description": "美妆行业的科研表达进入量化评价阶段，科学传播正成为品牌信任资产。",
+      "related_item_ids": [
+        "item_71b92c585298"
+      ],
+      "sections": [
+        "美妆护肤"
+      ],
+      "brands": [],
+      "platforms": [],
+      "first_seen_at": "2026-07-28",
+      "last_updated_at": "2026-07-28"
     },
     {
       "trend_id": "trend_6e8013ab7e06",
@@ -242,6 +340,23 @@
       ],
       "first_seen_at": "2026-07-27",
       "last_updated_at": "2026-07-27"
+    },
+    {
+      "trend_id": "trend_9ff950f9ae1b",
+      "trend_name": "品牌用体验场景对抗数字疲劳",
+      "description": "户外品牌营销正在把自然体验包装成反数字疲劳的长期品牌平台。",
+      "related_item_ids": [
+        "item_db8239c0acd2"
+      ],
+      "sections": [
+        "广告与营销"
+      ],
+      "brands": [
+        "CanadaGoose"
+      ],
+      "platforms": [],
+      "first_seen_at": "2026-07-28",
+      "last_updated_at": "2026-07-28"
     },
     {
       "trend_id": "trend_23c9c80b2255",
@@ -292,6 +407,23 @@
       "last_updated_at": "2026-07-26"
     },
     {
+      "trend_id": "trend_4447ccb8423e",
+      "trend_name": "平台流量分配与履约服务能力绑定",
+      "description": "京东把履约时效标签接入搜推权益，平台规则开始直接绑定商家服务能力。",
+      "related_item_ids": [
+        "item_72d72ab5fe6a"
+      ],
+      "sections": [
+        "电商与内容电商"
+      ],
+      "brands": [],
+      "platforms": [
+        "京东"
+      ],
+      "first_seen_at": "2026-07-28",
+      "last_updated_at": "2026-07-28"
+    },
+    {
       "trend_id": "trend_942c6ab4555b",
       "trend_name": "抖音现货经营",
       "description": "抖音电商继续把流量扶持绑定履约能力，内容电商的增长门槛正在转向现货供给。",
@@ -326,6 +458,23 @@
       "last_updated_at": "2026-07-27"
     },
     {
+      "trend_id": "trend_a3fefc47424c",
+      "trend_name": "本土运动品牌从扩张转向经营效率",
+      "description": "安踏主品牌进入效率优先阶段，家族治理重新接管大众运动基本盘。",
+      "related_item_ids": [
+        "item_8bede9d43856"
+      ],
+      "sections": [
+        "运动穿搭"
+      ],
+      "brands": [
+        "安踏"
+      ],
+      "platforms": [],
+      "first_seen_at": "2026-07-28",
+      "last_updated_at": "2026-07-28"
+    },
+    {
       "trend_id": "trend_ba9c8d90bd31",
       "trend_name": "淘宝商品质量分",
       "description": "淘宝把商品信息质量分与曝光权益进一步打通，搜索推荐正在更明确地奖励商品资产建设。",
@@ -358,6 +507,73 @@
       "platforms": [],
       "first_seen_at": "2026-07-27",
       "last_updated_at": "2026-07-27"
+    },
+    {
+      "trend_id": "trend_f3c1e6ab93cf",
+      "trend_name": "电商平台从交易入口转向生活方式品牌",
+      "description": "天猫正在把平台营销从大促曝光推进到“新生活”价值叙事和品牌共创。",
+      "related_item_ids": [
+        "item_4a72ae35c812"
+      ],
+      "sections": [
+        "广告与营销"
+      ],
+      "brands": [],
+      "platforms": [
+        "天猫"
+      ],
+      "first_seen_at": "2026-07-28",
+      "last_updated_at": "2026-07-28"
+    },
+    {
+      "trend_id": "trend_131be39bc143",
+      "trend_name": "社交电商平台向商家经营后台延伸",
+      "description": "TikTok Shop 与 Shopify 的接口化合作，说明内容电商正在向独立站和商家后台渗透。",
+      "related_item_ids": [
+        "item_85c3064e0e13"
+      ],
+      "sections": [
+        "电商与内容电商"
+      ],
+      "brands": [],
+      "platforms": [
+        "Shopify",
+        "TikTokShop"
+      ],
+      "first_seen_at": "2026-07-28",
+      "last_updated_at": "2026-07-28"
+    },
+    {
+      "trend_id": "trend_f07b6beb3764",
+      "trend_name": "美妆与健康货架融合",
+      "description": "美妆零售正在把护肤、情绪和健康货架合并，品类边界被消费者体验重画。",
+      "related_item_ids": [
+        "item_96d74626194f"
+      ],
+      "sections": [
+        "美妆护肤"
+      ],
+      "brands": [
+        "UltaBeauty"
+      ],
+      "platforms": [],
+      "first_seen_at": "2026-07-28",
+      "last_updated_at": "2026-07-28"
+    },
+    {
+      "trend_id": "trend_ad2b586210ba",
+      "trend_name": "美妆合规成为品牌增长底线",
+      "description": "化妆品监管从罚款走向信用约束，非法添加的品牌代价被显著放大。",
+      "related_item_ids": [
+        "item_206765b1e1f0"
+      ],
+      "sections": [
+        "美妆护肤"
+      ],
+      "brands": [],
+      "platforms": [],
+      "first_seen_at": "2026-07-28",
+      "last_updated_at": "2026-07-28"
     },
     {
       "trend_id": "trend_ff5d41560f04",
@@ -445,6 +661,23 @@
       "last_updated_at": "2026-07-26"
     },
     {
+      "trend_id": "trend_08d618f46015",
+      "trend_name": "老牌消费品牌用情绪语言重进年轻语境",
+      "description": "本土品牌借城市生活方式叙事，把产品卖点转成可被年轻人复述的日常情绪。",
+      "related_item_ids": [
+        "item_8f6251032ca9"
+      ],
+      "sections": [
+        "广告与营销"
+      ],
+      "brands": [
+        "森马"
+      ],
+      "platforms": [],
+      "first_seen_at": "2026-07-28",
+      "last_updated_at": "2026-07-28"
+    },
+    {
       "trend_id": "trend_6b85d26743da",
       "trend_name": "营销AI从效率导向转向效果证明",
       "description": "营销组织的 AI 使用正在从效率实验进入效果审计，预算不再只奖励“用了工具”。",
@@ -473,6 +706,23 @@
       "platforms": [],
       "first_seen_at": "2026-07-27",
       "last_updated_at": "2026-07-27"
+    },
+    {
+      "trend_id": "trend_64c1e0af4f7b",
+      "trend_name": "零售AI从工具订阅转向经营结果",
+      "description": "零售 AI 智能体开始进入选品、定价、门店和收益共享等经营环节。",
+      "related_item_ids": [
+        "item_efe9d747e586"
+      ],
+      "sections": [
+        "AI 应用"
+      ],
+      "brands": [
+        "多点数智"
+      ],
+      "platforms": [],
+      "first_seen_at": "2026-07-28",
+      "last_updated_at": "2026-07-28"
     },
     {
       "trend_id": "trend_70f92191af8b",
