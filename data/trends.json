@@ -1,8 +1,27 @@
 {
   "schema_version": "1.0",
-  "generated_at": "2026-07-28T21:49:28+08:00",
+  "generated_at": "2026-07-29T21:34:58+08:00",
   "status": "ready",
   "trends": [
+    {
+      "trend_id": "trend_c0bf0a56b86c",
+      "trend_name": "AI办公从问答工具走向任务执行入口",
+      "description": "办公智能体竞争从聊天入口转向桌面、钉钉和本地生活等可执行场景。",
+      "related_item_ids": [
+        "item_d89fb9554484"
+      ],
+      "sections": [
+        "AI 应用"
+      ],
+      "brands": [],
+      "platforms": [
+        "美团",
+        "腾讯",
+        "阿里"
+      ],
+      "first_seen_at": "2026-07-29",
+      "last_updated_at": "2026-07-29"
+    },
     {
       "trend_id": "trend_f8c1472ce869",
       "trend_name": "AI营销从概念包装转向可交付能力",
@@ -47,6 +66,21 @@
       "platforms": [],
       "first_seen_at": "2026-07-27",
       "last_updated_at": "2026-07-27"
+    },
+    {
+      "trend_id": "trend_1c9be2167efb",
+      "trend_name": "Agent时代的数据安全从文件边界走向流程边界",
+      "description": "Agent 普及让数据安全从文件防泄漏升级为人机混合工作流防护。",
+      "related_item_ids": [
+        "item_df5e94c8cc11"
+      ],
+      "sections": [
+        "AI 应用"
+      ],
+      "brands": [],
+      "platforms": [],
+      "first_seen_at": "2026-07-29",
+      "last_updated_at": "2026-07-29"
     },
     {
       "trend_id": "trend_976c5faa8cb6",
@@ -129,6 +163,23 @@
       "platforms": [],
       "first_seen_at": "2026-07-28",
       "last_updated_at": "2026-07-28"
+    },
+    {
+      "trend_id": "trend_cdc5b818a7cb",
+      "trend_name": "专业跑鞋品牌用技术心智支撑资本市场预期",
+      "description": "ASICS 获资本市场继续看好，专业跑鞋和 Onitsuka Tiger 组合支撑品牌估值预期。",
+      "related_item_ids": [
+        "item_82de72b03e1a"
+      ],
+      "sections": [
+        "运动穿搭"
+      ],
+      "brands": [
+        "ASICS"
+      ],
+      "platforms": [],
+      "first_seen_at": "2026-07-29",
+      "last_updated_at": "2026-07-29"
     },
     {
       "trend_id": "trend_856997b4b3c5",
@@ -229,6 +280,21 @@
       "last_updated_at": "2026-07-27"
     },
     {
+      "trend_id": "trend_bab398fd6c04",
+      "trend_name": "企业Agent治理从模型安全走向身份和权限管理",
+      "description": "企业开始把 AI Agent 当作“数字同事”治理，身份、权限和审计成为落地前提。",
+      "related_item_ids": [
+        "item_8e7a3630e7b3"
+      ],
+      "sections": [
+        "AI 应用"
+      ],
+      "brands": [],
+      "platforms": [],
+      "first_seen_at": "2026-07-29",
+      "last_updated_at": "2026-07-29"
+    },
+    {
       "trend_id": "trend_2801d8805347",
       "trend_name": "企业Agent生产化",
       "description": "企业 AI 代理的成熟度评估正在从 PoC 展示转向治理、ROI 和人工兜底机制。",
@@ -309,6 +375,40 @@
       "last_updated_at": "2026-07-28"
     },
     {
+      "trend_id": "trend_14aa8ac9a0e8",
+      "trend_name": "创作者营销从曝光采买走向渠道伙伴化",
+      "description": "创作者营销正在从一次性曝光转向长期教育、佣金和社群经营。",
+      "related_item_ids": [
+        "item_fe2349bee82b"
+      ],
+      "sections": [
+        "广告与营销"
+      ],
+      "brands": [
+        "Strava"
+      ],
+      "platforms": [],
+      "first_seen_at": "2026-07-29",
+      "last_updated_at": "2026-07-29"
+    },
+    {
+      "trend_id": "trend_6972219fede5",
+      "trend_name": "功效护肤品牌从线上爆发转向渠道和品牌结构考验",
+      "description": "功效护肤品牌冲刺上市遇阻，线上高依赖和单品牌结构成为资本市场追问重点。",
+      "related_item_ids": [
+        "item_0d44549c30e4"
+      ],
+      "sections": [
+        "美妆护肤"
+      ],
+      "brands": [
+        "HBN"
+      ],
+      "platforms": [],
+      "first_seen_at": "2026-07-29",
+      "last_updated_at": "2026-07-29"
+    },
+    {
       "trend_id": "trend_aa06153fd52a",
       "trend_name": "功效美妆从成分营销走向科学信任",
       "description": "美妆行业的科研表达进入量化评价阶段，科学传播正成为品牌信任资产。",
@@ -340,6 +440,24 @@
       ],
       "first_seen_at": "2026-07-27",
       "last_updated_at": "2026-07-27"
+    },
+    {
+      "trend_id": "trend_a4d31cadf57e",
+      "trend_name": "品牌投放从达人粉丝量转向内容资产增长速度",
+      "description": "内容平台流量榜正在显示 AI 短剧和人格化账号成为品牌观察的新流量入口。",
+      "related_item_ids": [
+        "item_3dc278004e9d"
+      ],
+      "sections": [
+        "广告与营销"
+      ],
+      "brands": [],
+      "platforms": [
+        "抖音",
+        "新榜"
+      ],
+      "first_seen_at": "2026-07-29",
+      "last_updated_at": "2026-07-29"
     },
     {
       "trend_id": "trend_9ff950f9ae1b",
@@ -526,6 +644,40 @@
       "last_updated_at": "2026-07-28"
     },
     {
+      "trend_id": "trend_f0527a59ab77",
+      "trend_name": "电商平台经营工具从获客转向售后和纠纷降本",
+      "description": "国内电商和跨境平台开始把售后处理自动化，商家运营工具从营销前台延伸到纠纷降本。",
+      "related_item_ids": [
+        "item_5f54ddb27207"
+      ],
+      "sections": [
+        "电商与内容电商"
+      ],
+      "brands": [],
+      "platforms": [
+        "敦煌网"
+      ],
+      "first_seen_at": "2026-07-29",
+      "last_updated_at": "2026-07-29"
+    },
+    {
+      "trend_id": "trend_fc18f6ff2945",
+      "trend_name": "短视频广告平台从流量采买走向投放自动化闭环",
+      "description": "TikTok 把品牌广告、搜索、商店和 AI 素材纳入同一自动化投放链路。",
+      "related_item_ids": [
+        "item_d3a46aa4d44c"
+      ],
+      "sections": [
+        "广告与营销"
+      ],
+      "brands": [],
+      "platforms": [
+        "TikTok"
+      ],
+      "first_seen_at": "2026-07-29",
+      "last_updated_at": "2026-07-29"
+    },
+    {
       "trend_id": "trend_131be39bc143",
       "trend_name": "社交电商平台向商家经营后台延伸",
       "description": "TikTok Shop 与 Shopify 的接口化合作，说明内容电商正在向独立站和商家后台渗透。",
@@ -591,6 +743,41 @@
       ],
       "first_seen_at": "2026-07-27",
       "last_updated_at": "2026-07-27"
+    },
+    {
+      "trend_id": "trend_b9cde0142b53",
+      "trend_name": "美妆品牌用社会议题和零售活动共同塑造产品资产",
+      "description": "美妆品牌把女性运动参与议题转成零售活动和公益合作，品牌价值叙事更贴近自信与成长。",
+      "related_item_ids": [
+        "item_01a17b6dc95c"
+      ],
+      "sections": [
+        "美妆护肤"
+      ],
+      "brands": [
+        "Clinique"
+      ],
+      "platforms": [],
+      "first_seen_at": "2026-07-29",
+      "last_updated_at": "2026-07-29"
+    },
+    {
+      "trend_id": "trend_be3d1144b8e6",
+      "trend_name": "美妆增长从护肤单品扩展到健康、投资和跨界零售",
+      "description": "美妆行业热点从单品上新扩展到口服美容、投资并购、运动员代言和大众零售扩张。",
+      "related_item_ids": [
+        "item_1af23f6422ba"
+      ],
+      "sections": [
+        "美妆护肤"
+      ],
+      "brands": [
+        "GiorgioArmaniBeauty",
+        "MERIT"
+      ],
+      "platforms": [],
+      "first_seen_at": "2026-07-29",
+      "last_updated_at": "2026-07-29"
     },
     {
       "trend_id": "trend_cd7fa6f77dd5",
@@ -693,6 +880,23 @@
       "last_updated_at": "2026-07-27"
     },
     {
+      "trend_id": "trend_7e4193cfe3f7",
+      "trend_name": "跑鞋品牌高增长进入全价售卖和产品矩阵验证期",
+      "description": "Hoka 高增长开始接受投资者检验，跑鞋品牌需要用 DTC、新品和全价售卖证明可持续。",
+      "related_item_ids": [
+        "item_288f607afa15"
+      ],
+      "sections": [
+        "运动穿搭"
+      ],
+      "brands": [
+        "Hoka"
+      ],
+      "platforms": [],
+      "first_seen_at": "2026-07-29",
+      "last_updated_at": "2026-07-29"
+    },
+    {
       "trend_id": "trend_3e91d566966c",
       "trend_name": "运动品牌竞争从产品发布延伸到电商组织能力",
       "description": "运动零售的人才流向显示，品牌竞争正在向电商运营和渠道效率倾斜。",
@@ -706,6 +910,40 @@
       "platforms": [],
       "first_seen_at": "2026-07-27",
       "last_updated_at": "2026-07-27"
+    },
+    {
+      "trend_id": "trend_51feebd1b52c",
+      "trend_name": "运动品牌线下店从货架渠道走向运动生活场景",
+      "description": "安踏用“城市运动会客厅”改造大众运动门店，线下零售从卖货转向体验和社群。",
+      "related_item_ids": [
+        "item_660c2fe0deb0"
+      ],
+      "sections": [
+        "运动穿搭"
+      ],
+      "brands": [
+        "安踏"
+      ],
+      "platforms": [],
+      "first_seen_at": "2026-07-29",
+      "last_updated_at": "2026-07-29"
+    },
+    {
+      "trend_id": "trend_c740e9140e62",
+      "trend_name": "逆向物流从成本中心转向可交易库存池",
+      "description": "二手平台把无法投递包裹重新上架，逆向物流正在被产品化为库存回收机制。",
+      "related_item_ids": [
+        "item_1e83d94c5e7c"
+      ],
+      "sections": [
+        "电商与内容电商"
+      ],
+      "brands": [
+        "Vinted"
+      ],
+      "platforms": [],
+      "first_seen_at": "2026-07-29",
+      "last_updated_at": "2026-07-29"
     },
     {
       "trend_id": "trend_64c1e0af4f7b",
@@ -723,6 +961,23 @@
       "platforms": [],
       "first_seen_at": "2026-07-28",
       "last_updated_at": "2026-07-28"
+    },
+    {
+      "trend_id": "trend_ffbe950c4fc4",
+      "trend_name": "零售平台用履约规则重塑高频消费决策",
+      "description": "国内电商会员商超把免邮门槛下调为统一规则，履约成本正在变成日常消费转化工具。",
+      "related_item_ids": [
+        "item_8425c3652f91"
+      ],
+      "sections": [
+        "电商与内容电商"
+      ],
+      "brands": [],
+      "platforms": [
+        "沃尔玛"
+      ],
+      "first_seen_at": "2026-07-29",
+      "last_updated_at": "2026-07-29"
     },
     {
       "trend_id": "trend_70f92191af8b",
