@@ -1,6 +1,6 @@
 {
   "schema_version": "1.0",
-  "generated_at": "2026-07-29T21:34:58+08:00",
+  "generated_at": "2026-07-30T21:47:02+08:00",
   "status": "ready",
   "trends": [
     {
@@ -21,6 +21,21 @@
       ],
       "first_seen_at": "2026-07-29",
       "last_updated_at": "2026-07-29"
+    },
+    {
+      "trend_id": "trend_7d61be79f030",
+      "trend_name": "AI广告从创意自动化走向效果优化基础设施",
+      "description": "AI 广告平台竞争正在从“能不能生成素材”升级为“能不能稳定提升效果指标”。",
+      "related_item_ids": [
+        "item_6ddca43d1e13"
+      ],
+      "sections": [
+        "广告与营销"
+      ],
+      "brands": [],
+      "platforms": [],
+      "first_seen_at": "2026-07-30",
+      "last_updated_at": "2026-07-30"
     },
     {
       "trend_id": "trend_f8c1472ce869",
@@ -81,6 +96,21 @@
       "platforms": [],
       "first_seen_at": "2026-07-29",
       "last_updated_at": "2026-07-29"
+    },
+    {
+      "trend_id": "trend_9a1f3d592dca",
+      "trend_name": "Agent落地开始倒逼企业核心系统重构",
+      "description": "企业把 Agent 接进 ERP 后，AI 预算会迅速演变成核心系统改造预算。",
+      "related_item_ids": [
+        "item_1664bae24f9c"
+      ],
+      "sections": [
+        "AI 应用"
+      ],
+      "brands": [],
+      "platforms": [],
+      "first_seen_at": "2026-07-30",
+      "last_updated_at": "2026-07-30"
     },
     {
       "trend_id": "trend_976c5faa8cb6",
@@ -201,6 +231,21 @@
       "last_updated_at": "2026-07-26"
     },
     {
+      "trend_id": "trend_c2031e5a7b92",
+      "trend_name": "中国电商竞争转向即时履约和高频场景争夺",
+      "description": "京东的增长叙事继续从低价电商转向即时零售和履约密度。",
+      "related_item_ids": [
+        "item_62dfc0351bb6"
+      ],
+      "sections": [
+        "电商与内容电商"
+      ],
+      "brands": [],
+      "platforms": [],
+      "first_seen_at": "2026-07-30",
+      "last_updated_at": "2026-07-30"
+    },
+    {
       "trend_id": "trend_1bbec28d6a2d",
       "trend_name": "中国运动生活方式消费",
       "description": "中国运动消费从球鞋服饰扩展到跑步、攀岩和高客单训练生活方式，Nike 的竞争对手正在变多。",
@@ -265,6 +310,21 @@
       "last_updated_at": "2026-07-27"
     },
     {
+      "trend_id": "trend_800d5b8b6105",
+      "trend_name": "企业AI治理上升到董事会和风险管理层级",
+      "description": "董事会层面的 AI 治理正在从伦理讨论转向风险分级、问责和第三方控制。",
+      "related_item_ids": [
+        "item_053f0cd7e382"
+      ],
+      "sections": [
+        "AI 应用"
+      ],
+      "brands": [],
+      "platforms": [],
+      "first_seen_at": "2026-07-30",
+      "last_updated_at": "2026-07-30"
+    },
+    {
       "trend_id": "trend_ca56b6062d1a",
       "trend_name": "企业AI治理从内部系统扩展到外部协作",
       "description": "企业 Agent 开始突破公司边界，治理重点从内部自动化转向跨系统协作风险。",
@@ -278,6 +338,23 @@
       "platforms": [],
       "first_seen_at": "2026-07-27",
       "last_updated_at": "2026-07-27"
+    },
+    {
+      "trend_id": "trend_1ecc60140ece",
+      "trend_name": "企业Agent治理从上线竞赛走向持续优化闭环",
+      "description": "企业级智能体开始从“能不能上线”转向“能不能稳定自进化”这一更硬的治理命题。",
+      "related_item_ids": [
+        "item_0278499dff84"
+      ],
+      "sections": [
+        "AI 应用"
+      ],
+      "brands": [],
+      "platforms": [
+        "阿里云"
+      ],
+      "first_seen_at": "2026-07-30",
+      "last_updated_at": "2026-07-30"
     },
     {
       "trend_id": "trend_bab398fd6c04",
@@ -373,6 +450,21 @@
       ],
       "first_seen_at": "2026-07-28",
       "last_updated_at": "2026-07-28"
+    },
+    {
+      "trend_id": "trend_c8c50fb5c05e",
+      "trend_name": "内容电商平台在存量阶段转向组织和商家结构重做",
+      "description": "快手电商的组织重构说明内容平台进入存量增长后，会先从人货场分层和权力回收下手。",
+      "related_item_ids": [
+        "item_c46f843e2fa4"
+      ],
+      "sections": [
+        "电商与内容电商"
+      ],
+      "brands": [],
+      "platforms": [],
+      "first_seen_at": "2026-07-30",
+      "last_updated_at": "2026-07-30"
     },
     {
       "trend_id": "trend_14aa8ac9a0e8",
@@ -510,6 +602,51 @@
       "last_updated_at": "2026-07-26"
     },
     {
+      "trend_id": "trend_e7a8e3d2f5f6",
+      "trend_name": "国货美妆把上游原料和技术备案做成新护城河",
+      "description": "中国美妆的上游竞争正在从营销话术转向原料备案和技术壁垒。",
+      "related_item_ids": [
+        "item_a4dc6ed8b0a3"
+      ],
+      "sections": [
+        "美妆护肤"
+      ],
+      "brands": [],
+      "platforms": [],
+      "first_seen_at": "2026-07-30",
+      "last_updated_at": "2026-07-30"
+    },
+    {
+      "trend_id": "trend_6e879d60398b",
+      "trend_name": "国货美妆把科研叙事前置为护肤竞争核心",
+      "description": "国货美妆品牌正在把科研能力前置为护肤竞争的核心叙事。",
+      "related_item_ids": [
+        "item_888d1d66b1d0"
+      ],
+      "sections": [
+        "美妆护肤"
+      ],
+      "brands": [],
+      "platforms": [],
+      "first_seen_at": "2026-07-30",
+      "last_updated_at": "2026-07-30"
+    },
+    {
+      "trend_id": "trend_01abffcb9abe",
+      "trend_name": "大赛营销正在倒逼运动品牌证明预算回报率",
+      "description": "世界杯带来的销量增长，并不能自动转化为运动品牌的利润弹性。",
+      "related_item_ids": [
+        "item_934eeaab791b"
+      ],
+      "sections": [
+        "运动穿搭"
+      ],
+      "brands": [],
+      "platforms": [],
+      "first_seen_at": "2026-07-30",
+      "last_updated_at": "2026-07-30"
+    },
+    {
       "trend_id": "trend_433e9362fe6b",
       "trend_name": "小机制品牌案例",
       "description": "亚太案例正在用小型机制创新替代大制作，品牌案例的价值更多来自洞察和执行结构。",
@@ -574,6 +711,21 @@
       ],
       "first_seen_at": "2026-07-27",
       "last_updated_at": "2026-07-27"
+    },
+    {
+      "trend_id": "trend_1e9e445c4194",
+      "trend_name": "本土品牌把审美叙事做成长期增长资产",
+      "description": "本土品牌增长正在从爆款单品转向把审美语言做成可复制的生活方式资产。",
+      "related_item_ids": [
+        "item_4decee6d7cfc"
+      ],
+      "sections": [
+        "广告与营销"
+      ],
+      "brands": [],
+      "platforms": [],
+      "first_seen_at": "2026-07-30",
+      "last_updated_at": "2026-07-30"
     },
     {
       "trend_id": "trend_a3fefc47424c",
@@ -897,6 +1049,36 @@
       "last_updated_at": "2026-07-29"
     },
     {
+      "trend_id": "trend_3843d1f1db19",
+      "trend_name": "跨境电商开始把支付和AI经营工具深度打包",
+      "description": "跨境卖家工具链正把支付、AI 和中小商家经营自动化打包输出。",
+      "related_item_ids": [
+        "item_4fd6fa4fcb36"
+      ],
+      "sections": [
+        "电商与内容电商"
+      ],
+      "brands": [],
+      "platforms": [],
+      "first_seen_at": "2026-07-30",
+      "last_updated_at": "2026-07-30"
+    },
+    {
+      "trend_id": "trend_9350e59b431e",
+      "trend_name": "运动品牌从高景气回到效率和库存管理竞赛",
+      "description": "中国运动品牌的高景气阶段已经过去，接下来更考验折扣、库存和渠道效率。",
+      "related_item_ids": [
+        "item_988f1802fde3"
+      ],
+      "sections": [
+        "运动穿搭"
+      ],
+      "brands": [],
+      "platforms": [],
+      "first_seen_at": "2026-07-30",
+      "last_updated_at": "2026-07-30"
+    },
+    {
       "trend_id": "trend_3e91d566966c",
       "trend_name": "运动品牌竞争从产品发布延伸到电商组织能力",
       "description": "运动零售的人才流向显示，品牌竞争正在向电商运营和渠道效率倾斜。",
@@ -927,6 +1109,21 @@
       "platforms": [],
       "first_seen_at": "2026-07-29",
       "last_updated_at": "2026-07-29"
+    },
+    {
+      "trend_id": "trend_16bafd420aac",
+      "trend_name": "运动服饰门店开始把支付和转化能力做成零售基础设施",
+      "description": "运动服饰品牌开始把金融工具直接嵌进门店，争取年轻客群和线下转化效率。",
+      "related_item_ids": [
+        "item_b9ebdde15798"
+      ],
+      "sections": [
+        "运动穿搭"
+      ],
+      "brands": [],
+      "platforms": [],
+      "first_seen_at": "2026-07-30",
+      "last_updated_at": "2026-07-30"
     },
     {
       "trend_id": "trend_c740e9140e62",
@@ -978,6 +1175,36 @@
       ],
       "first_seen_at": "2026-07-29",
       "last_updated_at": "2026-07-29"
+    },
+    {
+      "trend_id": "trend_372ae61080f4",
+      "trend_name": "预算收紧下的品牌创意转向轻量高记忆表达",
+      "description": "品牌案例的有效创新越来越依赖小洞察和低成本执行，而不是更大的制作规模。",
+      "related_item_ids": [
+        "item_38bb45fc035c"
+      ],
+      "sections": [
+        "广告与营销"
+      ],
+      "brands": [],
+      "platforms": [],
+      "first_seen_at": "2026-07-30",
+      "last_updated_at": "2026-07-30"
+    },
+    {
+      "trend_id": "trend_b728def1235e",
+      "trend_name": "高端彩妆用细分质地和亚洲审美刷新增长",
+      "description": "国际大集团继续用细分品类和区域审美来刷新高端彩妆增长。",
+      "related_item_ids": [
+        "item_36d635ac3e1a"
+      ],
+      "sections": [
+        "美妆护肤"
+      ],
+      "brands": [],
+      "platforms": [],
+      "first_seen_at": "2026-07-30",
+      "last_updated_at": "2026-07-30"
     },
     {
       "trend_id": "trend_70f92191af8b",
