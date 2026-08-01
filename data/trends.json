@@ -1,8 +1,23 @@
 {
   "schema_version": "1.0",
-  "generated_at": "2026-07-30T21:47:02+08:00",
+  "generated_at": "2026-08-01T21:38:57+08:00",
   "status": "ready",
   "trends": [
+    {
+      "trend_id": "trend_2ea74d35fd90",
+      "trend_name": "AI-first竞争开始从工具采购转向组织流程重写",
+      "description": "“AI-first”开始从口号变成组织重构题，真正的竞争点是能否把旧流程和审批链条一起拆掉。",
+      "related_item_ids": [
+        "item_6e6c87a6a3f9"
+      ],
+      "sections": [
+        "AI 应用"
+      ],
+      "brands": [],
+      "platforms": [],
+      "first_seen_at": "2026-08-01",
+      "last_updated_at": "2026-08-01"
+    },
     {
       "trend_id": "trend_c0bf0a56b86c",
       "trend_name": "AI办公从问答工具走向任务执行入口",
@@ -36,6 +51,23 @@
       "platforms": [],
       "first_seen_at": "2026-07-30",
       "last_updated_at": "2026-07-30"
+    },
+    {
+      "trend_id": "trend_b821bfe86952",
+      "trend_name": "AI服务公司开始把节省工时重定价为业务结果",
+      "description": "AI 把代理商最先压缩掉的不是创意，而是按工时计价的重复交付环节。",
+      "related_item_ids": [
+        "item_479054106b03"
+      ],
+      "sections": [
+        "AI 应用"
+      ],
+      "brands": [],
+      "platforms": [
+        "Duda"
+      ],
+      "first_seen_at": "2026-08-01",
+      "last_updated_at": "2026-08-01"
     },
     {
       "trend_id": "trend_f8c1472ce869",
@@ -145,6 +177,23 @@
       "last_updated_at": "2026-07-26"
     },
     {
+      "trend_id": "trend_a97b7ef0e69f",
+      "trend_name": "CBeauty出海开始从供应链优势走向品牌心智竞争",
+      "description": "李佳琦的出海打法提醒 C-Beauty 全球化竞争已经从“卖得出去”转向“能不能把心智和社群一起带出去”。",
+      "related_item_ids": [
+        "item_504a25c118eb"
+      ],
+      "sections": [
+        "美妆护肤"
+      ],
+      "brands": [
+        "C-Beauty"
+      ],
+      "platforms": [],
+      "first_seen_at": "2026-08-01",
+      "last_updated_at": "2026-08-01"
+    },
+    {
       "trend_id": "trend_b42c2d429ee8",
       "trend_name": "Nike中国从渠道纠偏转向本土产品重建",
       "description": "Nike 中国收缩线上分销只是第一步，真正挑战是用本土产品速度重新赢回消费者。",
@@ -229,6 +278,21 @@
       ],
       "first_seen_at": "2026-07-26",
       "last_updated_at": "2026-07-26"
+    },
+    {
+      "trend_id": "trend_20ab811a20f3",
+      "trend_name": "中国电商平台开始把监管要求深度写进经营系统",
+      "description": "中国电商平台竞争正在从增长工具升级为规则系统竞争，平台责任边界会被继续写细。",
+      "related_item_ids": [
+        "item_f8b1f14b56a5"
+      ],
+      "sections": [
+        "电商与内容电商"
+      ],
+      "brands": [],
+      "platforms": [],
+      "first_seen_at": "2026-08-01",
+      "last_updated_at": "2026-08-01"
     },
     {
       "trend_id": "trend_c2031e5a7b92",
@@ -402,6 +466,40 @@
       "last_updated_at": "2026-07-28"
     },
     {
+      "trend_id": "trend_dece66d5946c",
+      "trend_name": "企业开始采购可治理可审计的AgentOps总平台",
+      "description": "国内 Agent 平台竞争开始从“能不能做出来”转到“能不能把治理、工作流和知识底座一起卖出去”。",
+      "related_item_ids": [
+        "item_5286c88e8599"
+      ],
+      "sections": [
+        "AI 应用"
+      ],
+      "brands": [],
+      "platforms": [
+        "腾讯云"
+      ],
+      "first_seen_at": "2026-08-01",
+      "last_updated_at": "2026-08-01"
+    },
+    {
+      "trend_id": "trend_4132201f8f96",
+      "trend_name": "体育营销开始从买曝光转向技术与场景深度嵌入",
+      "description": "体育营销下半场的核心变化，不是继续砸赞助费，而是把技术、球星和内容资产更深地嵌进赛事场景。",
+      "related_item_ids": [
+        "item_61dcec5c5a9d"
+      ],
+      "sections": [
+        "运动穿搭"
+      ],
+      "brands": [
+        "海信联想"
+      ],
+      "platforms": [],
+      "first_seen_at": "2026-08-01",
+      "last_updated_at": "2026-08-01"
+    },
+    {
       "trend_id": "trend_79a4ff9a25fa",
       "trend_name": "体育赛事资产需要转化为零售结果",
       "description": "世界杯让 Adidas 的赛事资产转化为门店流量和球衣销售，耐克面临足球场景的转化压力。",
@@ -433,6 +531,23 @@
       "platforms": [],
       "first_seen_at": "2026-07-27",
       "last_updated_at": "2026-07-27"
+    },
+    {
+      "trend_id": "trend_4109b7c25164",
+      "trend_name": "内容平台正在把电商业务继续做成完整零售基础设施",
+      "description": "TikTok Shop 的下一阶段不是验证能不能卖货，而是要把品牌、目录、物流和直播交易做成更完整的零售基础设施。",
+      "related_item_ids": [
+        "item_a22d79e9b1ee"
+      ],
+      "sections": [
+        "电商与内容电商"
+      ],
+      "brands": [],
+      "platforms": [
+        "TikTokShop"
+      ],
+      "first_seen_at": "2026-08-01",
+      "last_updated_at": "2026-08-01"
     },
     {
       "trend_id": "trend_f56ea04735b2",
@@ -534,6 +649,38 @@
       "last_updated_at": "2026-07-27"
     },
     {
+      "trend_id": "trend_7905493f2295",
+      "trend_name": "品牌建设开始更系统地围绕用户情绪与长期表达展开",
+      "description": "本土品牌越来越重视情绪表达和用户共感，把品牌建设从功能沟通推向持续叙事。",
+      "related_item_ids": [
+        "item_54f949c36a6d"
+      ],
+      "sections": [
+        "广告与营销"
+      ],
+      "brands": [
+        "moody"
+      ],
+      "platforms": [],
+      "first_seen_at": "2026-08-01",
+      "last_updated_at": "2026-08-01"
+    },
+    {
+      "trend_id": "trend_5e005d28b24c",
+      "trend_name": "品牌开始把媒介物理属性本身做成创意资产",
+      "description": "当数字内容高度同质化后，品牌反而重新开始挖掘线下媒介和物理触感带来的稀缺注意力。",
+      "related_item_ids": [
+        "item_02d72f18d302"
+      ],
+      "sections": [
+        "广告与营销"
+      ],
+      "brands": [],
+      "platforms": [],
+      "first_seen_at": "2026-08-01",
+      "last_updated_at": "2026-08-01"
+    },
+    {
       "trend_id": "trend_a4d31cadf57e",
       "trend_name": "品牌投放从达人粉丝量转向内容资产增长速度",
       "description": "内容平台流量榜正在显示 AI 短剧和人格化账号成为品牌观察的新流量入口。",
@@ -632,6 +779,40 @@
       "last_updated_at": "2026-07-30"
     },
     {
+      "trend_id": "trend_2d56a589f61c",
+      "trend_name": "国际运动品牌在中国进入去折扣后的品牌重建阶段",
+      "description": "耐克在中国市场的真正难题已经不是清库存，而是如何在不依赖大折扣的前提下重建品牌吸引力。",
+      "related_item_ids": [
+        "item_b602b2c27476"
+      ],
+      "sections": [
+        "运动穿搭"
+      ],
+      "brands": [
+        "Nike"
+      ],
+      "platforms": [],
+      "first_seen_at": "2026-08-01",
+      "last_updated_at": "2026-08-01"
+    },
+    {
+      "trend_id": "trend_03af252cf810",
+      "trend_name": "大促红利正在进一步向头部内容电商和即时入口集中",
+      "description": "618 的真正信号不是活动还热不热，而是内容、电商和即时消费入口正在进一步集中到头部平台。",
+      "related_item_ids": [
+        "item_5799bb5efc35"
+      ],
+      "sections": [
+        "电商与内容电商"
+      ],
+      "brands": [],
+      "platforms": [
+        "618"
+      ],
+      "first_seen_at": "2026-08-01",
+      "last_updated_at": "2026-08-01"
+    },
+    {
       "trend_id": "trend_01abffcb9abe",
       "trend_name": "大赛营销正在倒逼运动品牌证明预算回报率",
       "description": "世界杯带来的销量增长，并不能自动转化为运动品牌的利润弹性。",
@@ -677,6 +858,23 @@
       ],
       "first_seen_at": "2026-07-28",
       "last_updated_at": "2026-07-28"
+    },
+    {
+      "trend_id": "trend_490a2c0cf69a",
+      "trend_name": "广告平台开始把创意生产和交易经营并到同一工作流",
+      "description": "TikTok 正把广告、商品目录、GMV 优化和创意生成合并进同一套操作系统，营销团队会越来越像经营团队。",
+      "related_item_ids": [
+        "item_b43b10c59c39"
+      ],
+      "sections": [
+        "广告与营销"
+      ],
+      "brands": [],
+      "platforms": [
+        "TikTok"
+      ],
+      "first_seen_at": "2026-08-01",
+      "last_updated_at": "2026-08-01"
     },
     {
       "trend_id": "trend_942c6ab4555b",
@@ -897,6 +1095,23 @@
       "last_updated_at": "2026-07-27"
     },
     {
+      "trend_id": "trend_7d66e07fe659",
+      "trend_name": "美妆品牌开始把价值观合作做成长期社群资产",
+      "description": "美妆品牌正在把“品牌价值观”从广告口号推进到和运动、公共议题、线下社群绑定的长期资产。",
+      "related_item_ids": [
+        "item_fd104bd0d180"
+      ],
+      "sections": [
+        "美妆护肤"
+      ],
+      "brands": [
+        "Clinique"
+      ],
+      "platforms": [],
+      "first_seen_at": "2026-08-01",
+      "last_updated_at": "2026-08-01"
+    },
+    {
       "trend_id": "trend_b9cde0142b53",
       "trend_name": "美妆品牌用社会议题和零售活动共同塑造产品资产",
       "description": "美妆品牌把女性运动参与议题转成零售活动和公益合作，品牌价值叙事更贴近自信与成长。",
@@ -981,6 +1196,23 @@
       ],
       "first_seen_at": "2026-07-26",
       "last_updated_at": "2026-07-26"
+    },
+    {
+      "trend_id": "trend_cf5320224936",
+      "trend_name": "美妆线上增长放缓后平台分化和利润修复更重要",
+      "description": "中国美妆上半年的核心变化不是重新高速增长，而是平台格局和品牌利润结构开始重新稳定。",
+      "related_item_ids": [
+        "item_2df7686e0888"
+      ],
+      "sections": [
+        "美妆护肤"
+      ],
+      "brands": [],
+      "platforms": [
+        "抖音淘天"
+      ],
+      "first_seen_at": "2026-08-01",
+      "last_updated_at": "2026-08-01"
     },
     {
       "trend_id": "trend_a8801bd359ca",
@@ -1092,6 +1324,25 @@
       "platforms": [],
       "first_seen_at": "2026-07-27",
       "last_updated_at": "2026-07-27"
+    },
+    {
+      "trend_id": "trend_ee1128295c46",
+      "trend_name": "运动品牌竞争开始延伸到人才组织与内容节奏",
+      "description": "中国运动市场的新竞争已经不是谁能讲更大故事，而是谁能把人才、零售和内容节奏同时跑顺。",
+      "related_item_ids": [
+        "item_441f79bd2056"
+      ],
+      "sections": [
+        "运动穿搭"
+      ],
+      "brands": [
+        "Nike"
+      ],
+      "platforms": [
+        "小红书"
+      ],
+      "first_seen_at": "2026-08-01",
+      "last_updated_at": "2026-08-01"
     },
     {
       "trend_id": "trend_51feebd1b52c",
