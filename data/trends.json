@@ -1,8 +1,68 @@
 {
   "schema_version": "1.0",
-  "generated_at": "2026-08-01T21:38:57+08:00",
+  "generated_at": "2026-08-02T20:20:19+08:00",
   "status": "ready",
   "trends": [
+    {
+      "trend_id": "trend_b39c5388584d",
+      "trend_name": "618 的结构性变化是 AI 购物入口、商品创新和用户资产经营共同取代单纯低价竞争。",
+      "description": "618 的结构性变化是 AI 购物入口、商品创新和用户资产经营共同取代单纯低价竞争。",
+      "related_item_ids": [
+        "item_b273b79c1a09"
+      ],
+      "sections": [
+        "电商与内容电商"
+      ],
+      "brands": [],
+      "platforms": [],
+      "first_seen_at": "2026-08-02",
+      "last_updated_at": "2026-08-02"
+    },
+    {
+      "trend_id": "trend_206a0c073e6d",
+      "trend_name": "AI 参与消费者考虑集筛选后，品牌建设要同时面对人和机器的可理解性。",
+      "description": "AI 参与消费者考虑集筛选后，品牌建设要同时面对人和机器的可理解性。",
+      "related_item_ids": [
+        "item_1b5782e6d5de"
+      ],
+      "sections": [
+        "广告与营销"
+      ],
+      "brands": [],
+      "platforms": [],
+      "first_seen_at": "2026-08-02",
+      "last_updated_at": "2026-08-02"
+    },
+    {
+      "trend_id": "trend_5d2a0736d6e1",
+      "trend_name": "AI 导购正在把快手的搜索结果页变成商品理解、比较和转化的一体化入口。",
+      "description": "AI 导购正在把快手的搜索结果页变成商品理解、比较和转化的一体化入口。",
+      "related_item_ids": [
+        "item_13c2f4709da2"
+      ],
+      "sections": [
+        "电商与内容电商"
+      ],
+      "brands": [],
+      "platforms": [],
+      "first_seen_at": "2026-08-02",
+      "last_updated_at": "2026-08-02"
+    },
+    {
+      "trend_id": "trend_38c7ddfaffea",
+      "trend_name": "AI 成分发现正在从实验室辅助工具进入天然活性物和配方研发的协作链。",
+      "description": "AI 成分发现正在从实验室辅助工具进入天然活性物和配方研发的协作链。",
+      "related_item_ids": [
+        "item_2d3ffac4a6dc"
+      ],
+      "sections": [
+        "美妆护肤"
+      ],
+      "brands": [],
+      "platforms": [],
+      "first_seen_at": "2026-08-02",
+      "last_updated_at": "2026-08-02"
+    },
     {
       "trend_id": "trend_2ea74d35fd90",
       "trend_name": "AI-first竞争开始从工具采购转向组织流程重写",
@@ -100,6 +160,21 @@
       "last_updated_at": "2026-07-26"
     },
     {
+      "trend_id": "trend_2b30d2f8db2c",
+      "trend_name": "Adidas 的世界杯打法显示，官方权益仍需用创意、线下激活和明星资产才能转化为品牌记忆。",
+      "description": "Adidas 的世界杯打法显示，官方权益仍需用创意、线下激活和明星资产才能转化为品牌记忆。",
+      "related_item_ids": [
+        "item_fc9a45be5cf6"
+      ],
+      "sections": [
+        "广告与营销"
+      ],
+      "brands": [],
+      "platforms": [],
+      "first_seen_at": "2026-08-02",
+      "last_updated_at": "2026-08-02"
+    },
+    {
       "trend_id": "trend_18555d06e437",
       "trend_name": "Agent产业从展示走向交付",
       "description": "Agent 产业会议的关注点从模型能力转向应用路径、产业组织和交付机制。",
@@ -194,6 +269,21 @@
       "last_updated_at": "2026-08-01"
     },
     {
+      "trend_id": "trend_0dc99cca15e1",
+      "trend_name": "Nike 收紧中国线上分销权，说明国际运动品牌正以渠道集中化修复价格和消费者信任。",
+      "description": "Nike 收紧中国线上分销权，说明国际运动品牌正以渠道集中化修复价格和消费者信任。",
+      "related_item_ids": [
+        "item_0f09c8eebb3e"
+      ],
+      "sections": [
+        "运动穿搭"
+      ],
+      "brands": [],
+      "platforms": [],
+      "first_seen_at": "2026-08-02",
+      "last_updated_at": "2026-08-02"
+    },
+    {
       "trend_id": "trend_b42c2d429ee8",
       "trend_name": "Nike中国从渠道纠偏转向本土产品重建",
       "description": "Nike 中国收缩线上分销只是第一步，真正挑战是用本土产品速度重新赢回消费者。",
@@ -224,6 +314,36 @@
       "platforms": [],
       "first_seen_at": "2026-07-26",
       "last_updated_at": "2026-07-26"
+    },
+    {
+      "trend_id": "trend_d27f0526bd2e",
+      "trend_name": "Prime Day 的市场增量与 TikTok Shop 的高增并存，说明大促正在同时强化货架效率和内容电商分流。",
+      "description": "Prime Day 的市场增量与 TikTok Shop 的高增并存，说明大促正在同时强化货架效率和内容电商分流。",
+      "related_item_ids": [
+        "item_610f659c3d96"
+      ],
+      "sections": [
+        "电商与内容电商"
+      ],
+      "brands": [],
+      "platforms": [],
+      "first_seen_at": "2026-08-02",
+      "last_updated_at": "2026-08-02"
+    },
+    {
+      "trend_id": "trend_358c94335003",
+      "trend_name": "Rare Beauty 的全球香氛 campaign 显示，美妆新品正用创意、线下零售和付费媒体共同构建品牌叙事。",
+      "description": "Rare Beauty 的全球香氛 campaign 显示，美妆新品正用创意、线下零售和付费媒体共同构建品牌叙事。",
+      "related_item_ids": [
+        "item_c771e9445e52"
+      ],
+      "sections": [
+        "广告与营销"
+      ],
+      "brands": [],
+      "platforms": [],
+      "first_seen_at": "2026-08-02",
+      "last_updated_at": "2026-08-02"
     },
     {
       "trend_id": "trend_e7aa4d80fdeb",
@@ -259,6 +379,21 @@
       "platforms": [],
       "first_seen_at": "2026-07-29",
       "last_updated_at": "2026-07-29"
+    },
+    {
+      "trend_id": "trend_10bef199a3f7",
+      "trend_name": "世界杯营销带来产品售罄和声量，也放大了品牌必须在投入与转化之间控制成本的压力。",
+      "description": "世界杯营销带来产品售罄和声量，也放大了品牌必须在投入与转化之间控制成本的压力。",
+      "related_item_ids": [
+        "item_393e1ded3c85"
+      ],
+      "sections": [
+        "运动穿搭"
+      ],
+      "brands": [],
+      "platforms": [],
+      "first_seen_at": "2026-08-02",
+      "last_updated_at": "2026-08-02"
     },
     {
       "trend_id": "trend_856997b4b3c5",
@@ -308,6 +443,21 @@
       "platforms": [],
       "first_seen_at": "2026-07-30",
       "last_updated_at": "2026-07-30"
+    },
+    {
+      "trend_id": "trend_19b366e9eef2",
+      "trend_name": "中国跑步、攀岩等运动生活方式消费上升，使专业运动服饰进入更广泛的日常穿搭场景。",
+      "description": "中国跑步、攀岩等运动生活方式消费上升，使专业运动服饰进入更广泛的日常穿搭场景。",
+      "related_item_ids": [
+        "item_8e8aae49f659"
+      ],
+      "sections": [
+        "运动穿搭"
+      ],
+      "brands": [],
+      "platforms": [],
+      "first_seen_at": "2026-08-02",
+      "last_updated_at": "2026-08-02"
     },
     {
       "trend_id": "trend_1bbec28d6a2d",
@@ -483,6 +633,36 @@
       "last_updated_at": "2026-08-01"
     },
     {
+      "trend_id": "trend_5e7a96b757b5",
+      "trend_name": "企业引入会执行动作的 AI，必须把平台依赖和治理责任一起写进技术路线。",
+      "description": "企业引入会执行动作的 AI，必须把平台依赖和治理责任一起写进技术路线。",
+      "related_item_ids": [
+        "item_da3980457c83"
+      ],
+      "sections": [
+        "AI 应用"
+      ],
+      "brands": [],
+      "platforms": [],
+      "first_seen_at": "2026-08-02",
+      "last_updated_at": "2026-08-02"
+    },
+    {
+      "trend_id": "trend_dd94162f520d",
+      "trend_name": "企业智能体正在从单点问答转向可编排、可监控的供应链工作流。",
+      "description": "企业智能体正在从单点问答转向可编排、可监控的供应链工作流。",
+      "related_item_ids": [
+        "item_ae57c0ffaa58"
+      ],
+      "sections": [
+        "AI 应用"
+      ],
+      "brands": [],
+      "platforms": [],
+      "first_seen_at": "2026-08-02",
+      "last_updated_at": "2026-08-02"
+    },
+    {
       "trend_id": "trend_4132201f8f96",
       "trend_name": "体育营销开始从买曝光转向技术与场景深度嵌入",
       "description": "体育营销下半场的核心变化，不是继续砸赞助费，而是把技术、球星和内容资产更深地嵌进赛事场景。",
@@ -531,6 +711,21 @@
       "platforms": [],
       "first_seen_at": "2026-07-27",
       "last_updated_at": "2026-07-27"
+    },
+    {
+      "trend_id": "trend_5ed229942be6",
+      "trend_name": "全球美妆零售正在把国际化分销、AI 体验和产品创新一起作为下一阶段增长组合。",
+      "description": "全球美妆零售正在把国际化分销、AI 体验和产品创新一起作为下一阶段增长组合。",
+      "related_item_ids": [
+        "item_1217a58425d6"
+      ],
+      "sections": [
+        "美妆护肤"
+      ],
+      "brands": [],
+      "platforms": [],
+      "first_seen_at": "2026-08-02",
+      "last_updated_at": "2026-08-02"
     },
     {
       "trend_id": "trend_4109b7c25164",
@@ -911,6 +1106,21 @@
       "last_updated_at": "2026-07-27"
     },
     {
+      "trend_id": "trend_da901acef5e2",
+      "trend_name": "智能体治理正在从制度文件变成注册、身份、审计和运行监控的控制层。",
+      "description": "智能体治理正在从制度文件变成注册、身份、审计和运行监控的控制层。",
+      "related_item_ids": [
+        "item_d81c1ef6e48a"
+      ],
+      "sections": [
+        "AI 应用"
+      ],
+      "brands": [],
+      "platforms": [],
+      "first_seen_at": "2026-08-02",
+      "last_updated_at": "2026-08-02"
+    },
+    {
       "trend_id": "trend_1e9e445c4194",
       "trend_name": "本土品牌把审美叙事做成长期增长资产",
       "description": "本土品牌增长正在从爆款单品转向把审美语言做成可复制的生活方式资产。",
@@ -1178,6 +1388,21 @@
       "platforms": [],
       "first_seen_at": "2026-07-26",
       "last_updated_at": "2026-07-26"
+    },
+    {
+      "trend_id": "trend_826589d186bd",
+      "trend_name": "美妆研发的下一个竞争点是让原料、配方、包装和渠道创新形成同一条产品开发链。",
+      "description": "美妆研发的下一个竞争点是让原料、配方、包装和渠道创新形成同一条产品开发链。",
+      "related_item_ids": [
+        "item_8b15fb833a3a"
+      ],
+      "sections": [
+        "美妆护肤"
+      ],
+      "brands": [],
+      "platforms": [],
+      "first_seen_at": "2026-08-02",
+      "last_updated_at": "2026-08-02"
     },
     {
       "trend_id": "trend_3e66e5ad6b08",
