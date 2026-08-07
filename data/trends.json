@@ -1,6 +1,6 @@
 {
   "schema_version": "1.0",
-  "generated_at": "2026-08-02T20:20:19+08:00",
+  "generated_at": "2026-08-08T00:25:04+08:00",
   "status": "ready",
   "trends": [
     {
@@ -113,6 +113,36 @@
       "last_updated_at": "2026-07-30"
     },
     {
+      "trend_id": "trend_ed636a98f8de",
+      "trend_name": "AI广告质量成为品牌安全变量",
+      "description": "亚洲消费者并不排斥 AI 广告，但低质量生成内容与不合适的投放环境会直接损伤品牌资产。",
+      "related_item_ids": [
+        "item_5f1388251d62"
+      ],
+      "sections": [
+        "广告与营销"
+      ],
+      "brands": [],
+      "platforms": [],
+      "first_seen_at": "2026-08-07",
+      "last_updated_at": "2026-08-07"
+    },
+    {
+      "trend_id": "trend_2ed2559b133d",
+      "trend_name": "AI政策控制代码化",
+      "description": "AI 治理开始被编码成持续运行的测试、缓解和审计控制，而不是停留在政策文档和上线前审批。",
+      "related_item_ids": [
+        "item_4272dd0f22ba"
+      ],
+      "sections": [
+        "AI 应用"
+      ],
+      "brands": [],
+      "platforms": [],
+      "first_seen_at": "2026-08-07",
+      "last_updated_at": "2026-08-07"
+    },
+    {
       "trend_id": "trend_b821bfe86952",
       "trend_name": "AI服务公司开始把节省工时重定价为业务结果",
       "description": "AI 把代理商最先压缩掉的不是创意，而是按工时计价的重复交付环节。",
@@ -158,6 +188,21 @@
       "platforms": [],
       "first_seen_at": "2026-07-26",
       "last_updated_at": "2026-07-26"
+    },
+    {
+      "trend_id": "trend_792b531ec974",
+      "trend_name": "AI规模化转向数据底座",
+      "description": "企业 AI 的主要瓶颈正在从模型选择转向数据质量、所有权和跨部门治理，试点成功不再等于生产可扩展。",
+      "related_item_ids": [
+        "item_7ca6dfd4a355"
+      ],
+      "sections": [
+        "AI 应用"
+      ],
+      "brands": [],
+      "platforms": [],
+      "first_seen_at": "2026-08-07",
+      "last_updated_at": "2026-08-07"
     },
     {
       "trend_id": "trend_2b30d2f8db2c",
@@ -445,6 +490,23 @@
       "last_updated_at": "2026-07-30"
     },
     {
+      "trend_id": "trend_0baf47f7f9b5",
+      "trend_name": "中国穿搭品牌本地化进入韩国",
+      "description": "中国生活方式品牌进入韩国时，正用本地偶像的非舞台人格、平台快闪和产品专属细节换取文化可信度。",
+      "related_item_ids": [
+        "item_cfdf56efe497"
+      ],
+      "sections": [
+        "运动穿搭"
+      ],
+      "brands": [
+        "GOODBAI"
+      ],
+      "platforms": [],
+      "first_seen_at": "2026-08-07",
+      "last_updated_at": "2026-08-07"
+    },
+    {
       "trend_id": "trend_19b366e9eef2",
       "trend_name": "中国跑步、攀岩等运动生活方式消费上升，使专业运动服饰进入更广泛的日常穿搭场景。",
       "description": "中国跑步、攀岩等运动生活方式消费上升，使专业运动服饰进入更广泛的日常穿搭场景。",
@@ -728,6 +790,23 @@
       "last_updated_at": "2026-08-02"
     },
     {
+      "trend_id": "trend_c73038299807",
+      "trend_name": "内容平台AI身份治理账号化",
+      "description": "小红书把 AI 内容治理从单篇笔记推进到账号身份层，虚拟人账号的合规状态开始直接关联分发和工具权益。",
+      "related_item_ids": [
+        "item_27148a4ce7a0"
+      ],
+      "sections": [
+        "电商与内容电商"
+      ],
+      "brands": [],
+      "platforms": [
+        "小红书"
+      ],
+      "first_seen_at": "2026-08-07",
+      "last_updated_at": "2026-08-07"
+    },
+    {
       "trend_id": "trend_4109b7c25164",
       "trend_name": "内容平台正在把电商业务继续做成完整零售基础设施",
       "description": "TikTok Shop 的下一阶段不是验证能不能卖货，而是要把品牌、目录、物流和直播交易做成更完整的零售基础设施。",
@@ -991,6 +1070,23 @@
       "last_updated_at": "2026-08-01"
     },
     {
+      "trend_id": "trend_a699158d0ee9",
+      "trend_name": "在线零售从便利溢价转向同价竞争",
+      "description": "在线杂货平台正用商品同价而非配送便利单独拉动采用率，零加价开始同时影响增长和留存。",
+      "related_item_ids": [
+        "item_c487ee0ab89d"
+      ],
+      "sections": [
+        "电商与内容电商"
+      ],
+      "brands": [],
+      "platforms": [
+        "Instacart"
+      ],
+      "first_seen_at": "2026-08-07",
+      "last_updated_at": "2026-08-07"
+    },
+    {
       "trend_id": "trend_03af252cf810",
       "trend_name": "大促红利正在进一步向头部内容电商和即时入口集中",
       "description": "618 的真正信号不是活动还热不热，而是内容、电商和即时消费入口正在进一步集中到头部平台。",
@@ -1072,6 +1168,23 @@
       "last_updated_at": "2026-08-01"
     },
     {
+      "trend_id": "trend_2bea3e71a092",
+      "trend_name": "广告直销自动化压缩中间链路",
+      "description": "Google 正利用广告服务器的数据优势自动化媒体直销，迫使传统程序化链路重新证明中间环节的价值。",
+      "related_item_ids": [
+        "item_80bccfbb17f8"
+      ],
+      "sections": [
+        "广告与营销"
+      ],
+      "brands": [],
+      "platforms": [
+        "Google"
+      ],
+      "first_seen_at": "2026-08-07",
+      "last_updated_at": "2026-08-07"
+    },
+    {
       "trend_id": "trend_942c6ab4555b",
       "trend_name": "抖音现货经营",
       "description": "抖音电商继续把流量扶持绑定履约能力，内容电商的增长门槛正在转向现货供给。",
@@ -1151,6 +1264,21 @@
       "platforms": [],
       "first_seen_at": "2026-07-28",
       "last_updated_at": "2026-07-28"
+    },
+    {
+      "trend_id": "trend_173948fb9901",
+      "trend_name": "模型能力商品化与智能路由",
+      "description": "中国模型厂商把性能差距压缩与极低调用价同时推向市场，模型能力正在从稀缺品转向可按价格动态调度的商品。",
+      "related_item_ids": [
+        "item_8982b93b05bf"
+      ],
+      "sections": [
+        "AI 应用"
+      ],
+      "brands": [],
+      "platforms": [],
+      "first_seen_at": "2026-08-07",
+      "last_updated_at": "2026-08-07"
     },
     {
       "trend_id": "trend_ba9c8d90bd31",
@@ -1254,6 +1382,40 @@
       ],
       "first_seen_at": "2026-07-28",
       "last_updated_at": "2026-07-28"
+    },
+    {
+      "trend_id": "trend_6dde06e712c3",
+      "trend_name": "社群身份驱动挑战者美妆增长",
+      "description": "挑战者美妆品牌正在用社群身份与娱乐化内容同时换取文化可信度和可量化站点增长。",
+      "related_item_ids": [
+        "item_fe2b2b66acfc"
+      ],
+      "sections": [
+        "美妆护肤"
+      ],
+      "brands": [
+        "PatternBeauty"
+      ],
+      "platforms": [],
+      "first_seen_at": "2026-08-07",
+      "last_updated_at": "2026-08-07"
+    },
+    {
+      "trend_id": "trend_7d761baef0ad",
+      "trend_name": "稀缺分销品牌面临促销压力",
+      "description": "Birkenstock 的增长预期仍稳，但折扣款扩张正在挑战稀缺分销和高全价售罄构成的品牌热度。",
+      "related_item_ids": [
+        "item_310e83766633"
+      ],
+      "sections": [
+        "运动穿搭"
+      ],
+      "brands": [
+        "Birkenstock"
+      ],
+      "platforms": [],
+      "first_seen_at": "2026-08-07",
+      "last_updated_at": "2026-08-07"
     },
     {
       "trend_id": "trend_f07b6beb3764",
@@ -1440,6 +1602,23 @@
       "last_updated_at": "2026-08-01"
     },
     {
+      "trend_id": "trend_0f6646fee384",
+      "trend_name": "美妆集团利润修复与品牌分化",
+      "description": "资生堂利润修复快于收入增长，但中国与日本市场仍停滞，品牌组合分化决定下半年修复质量。",
+      "related_item_ids": [
+        "item_65bbc26a1e94"
+      ],
+      "sections": [
+        "美妆护肤"
+      ],
+      "brands": [
+        "资生堂"
+      ],
+      "platforms": [],
+      "first_seen_at": "2026-08-07",
+      "last_updated_at": "2026-08-07"
+    },
+    {
       "trend_id": "trend_a8801bd359ca",
       "trend_name": "老媒介创意再利用",
       "description": "传统媒介重新被创意激活，品牌不必只靠线上互动才能制造参与感。",
@@ -1474,6 +1653,36 @@
       "last_updated_at": "2026-07-28"
     },
     {
+      "trend_id": "trend_647cd9354b8d",
+      "trend_name": "联名从曝光合作转向需求共创",
+      "description": "有效联名越来越依赖既有消费者行为、互补受众和文化时点，商业结果来自产品与渠道机制而非只靠双方 Logo。",
+      "related_item_ids": [
+        "item_08ec0deec863"
+      ],
+      "sections": [
+        "广告与营销"
+      ],
+      "brands": [],
+      "platforms": [],
+      "first_seen_at": "2026-08-07",
+      "last_updated_at": "2026-08-07"
+    },
+    {
+      "trend_id": "trend_24ebd0a57e05",
+      "trend_name": "自动判罚重塑竞技与明星价值",
+      "description": "自动判罚不仅提高准确率，还可能重写明星优势、挑战资源和联盟商业叙事之间的平衡。",
+      "related_item_ids": [
+        "item_124e54a39a81"
+      ],
+      "sections": [
+        "运动穿搭"
+      ],
+      "brands": [],
+      "platforms": [],
+      "first_seen_at": "2026-08-07",
+      "last_updated_at": "2026-08-07"
+    },
+    {
       "trend_id": "trend_6b85d26743da",
       "trend_name": "营销AI从效率导向转向效果证明",
       "description": "营销组织的 AI 使用正在从效率实验进入效果审计，预算不再只奖励“用了工具”。",
@@ -1504,6 +1713,23 @@
       "platforms": [],
       "first_seen_at": "2026-07-29",
       "last_updated_at": "2026-07-29"
+    },
+    {
+      "trend_id": "trend_6e8fcd8676ab",
+      "trend_name": "跨境低价电商增长溢价重估",
+      "description": "中国电商 Shein 的香港上市进入冲刺，但流量降速、利润回落与低价跨境监管正在重估其增长溢价。",
+      "related_item_ids": [
+        "item_e5f92da7a383"
+      ],
+      "sections": [
+        "电商与内容电商"
+      ],
+      "brands": [],
+      "platforms": [
+        "Shein"
+      ],
+      "first_seen_at": "2026-08-07",
+      "last_updated_at": "2026-08-07"
     },
     {
       "trend_id": "trend_3843d1f1db19",
@@ -1681,6 +1907,21 @@
       "platforms": [],
       "first_seen_at": "2026-07-30",
       "last_updated_at": "2026-07-30"
+    },
+    {
+      "trend_id": "trend_55c29f9bca68",
+      "trend_name": "高端消费进入可持续低速增长",
+      "description": "高端消费重新增长但不再回到疫情后双位数扩张，品牌必须靠创意换代、产品和客户体验重新争取中产客群。",
+      "related_item_ids": [
+        "item_a309f81eab04"
+      ],
+      "sections": [
+        "美妆护肤"
+      ],
+      "brands": [],
+      "platforms": [],
+      "first_seen_at": "2026-08-07",
+      "last_updated_at": "2026-08-07"
     },
     {
       "trend_id": "trend_70f92191af8b",
