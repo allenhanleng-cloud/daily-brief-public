@@ -1,6 +1,6 @@
 {
   "schema_version": "1.0",
-  "generated_at": "2026-08-08T00:25:04+08:00",
+  "generated_at": "2026-08-10T20:03:29+08:00",
   "status": "ready",
   "trends": [
     {
@@ -128,6 +128,26 @@
       "last_updated_at": "2026-08-07"
     },
     {
+      "trend_id": "trend_b48ea8e7b09b",
+      "trend_name": "AI成本与ROI",
+      "description": "AI ROI 开始由模型能力转向数据生命周期与存储利用率",
+      "related_item_ids": [
+        "item_4c08905f6bd0",
+        "item_88dc3bc6cf90"
+      ],
+      "sections": [
+        "AI 应用"
+      ],
+      "brands": [
+        "Rippling"
+      ],
+      "platforms": [
+        "企业IT"
+      ],
+      "first_seen_at": "2026-08-10",
+      "last_updated_at": "2026-08-10"
+    },
+    {
       "trend_id": "trend_2ed2559b133d",
       "trend_name": "AI政策控制代码化",
       "description": "AI 治理开始被编码成持续运行的测试、缓解和审计控制，而不是停留在政策文档和上线前审批。",
@@ -158,6 +178,44 @@
       ],
       "first_seen_at": "2026-08-01",
       "last_updated_at": "2026-08-01"
+    },
+    {
+      "trend_id": "trend_f3e44e135420",
+      "trend_name": "AI治理与安全",
+      "description": "中国拟人化 AI 新规已从条文进入产品下线与用户迁移阶段",
+      "related_item_ids": [
+        "item_ac341c6f9db9",
+        "item_d26d8326d0e6"
+      ],
+      "sections": [
+        "AI 应用"
+      ],
+      "brands": [
+        "Moonshot",
+        "字节跳动"
+      ],
+      "platforms": [
+        "微信"
+      ],
+      "first_seen_at": "2026-08-10",
+      "last_updated_at": "2026-08-10"
+    },
+    {
+      "trend_id": "trend_d5a8c6da755a",
+      "trend_name": "AI组织与岗位",
+      "description": "实时数据工程师正在成为企业 AI 决策链的新关键岗位",
+      "related_item_ids": [
+        "item_3a40b01c421f"
+      ],
+      "sections": [
+        "AI 应用"
+      ],
+      "brands": [],
+      "platforms": [
+        "Confluent"
+      ],
+      "first_seen_at": "2026-08-10",
+      "last_updated_at": "2026-08-10"
     },
     {
       "trend_id": "trend_f8c1472ce869",
@@ -586,6 +644,40 @@
       "last_updated_at": "2026-07-27"
     },
     {
+      "trend_id": "trend_7f7dacafad3f",
+      "trend_name": "企业AI工作流",
+      "description": "阿里 Qwen3.8-Max 把百万上下文、多模态与智能体工具压进同一企业入口",
+      "related_item_ids": [
+        "item_11a1893b8b96"
+      ],
+      "sections": [
+        "AI 应用"
+      ],
+      "brands": [],
+      "platforms": [
+        "阿里云"
+      ],
+      "first_seen_at": "2026-08-10",
+      "last_updated_at": "2026-08-10"
+    },
+    {
+      "trend_id": "trend_ce9fa9536b1f",
+      "trend_name": "企业AI治理",
+      "description": "EY 用价值办公室把 AI 治理、培训和 ROI 变成同一套经营机制",
+      "related_item_ids": [
+        "item_c42a07f46e80"
+      ],
+      "sections": [
+        "AI 应用"
+      ],
+      "brands": [
+        "EY"
+      ],
+      "platforms": [],
+      "first_seen_at": "2026-08-10",
+      "last_updated_at": "2026-08-10"
+    },
+    {
       "trend_id": "trend_800d5b8b6105",
       "trend_name": "企业AI治理上升到董事会和风险管理层级",
       "description": "董事会层面的 AI 治理正在从伦理讨论转向风险分级、问责和第三方控制。",
@@ -723,6 +815,21 @@
       "platforms": [],
       "first_seen_at": "2026-08-02",
       "last_updated_at": "2026-08-02"
+    },
+    {
+      "trend_id": "trend_ce58864aea7d",
+      "trend_name": "企业知识工程",
+      "description": "简单知识图谱叠加 RAG，在 510 个问题上把准确率从 29% 提至 66%",
+      "related_item_ids": [
+        "item_bb677515e834"
+      ],
+      "sections": [
+        "AI 应用"
+      ],
+      "brands": [],
+      "platforms": [],
+      "first_seen_at": "2026-08-10",
+      "last_updated_at": "2026-08-10"
     },
     {
       "trend_id": "trend_4132201f8f96",
