@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "brief_date": "2026-08-10",
-  "generated_at": "2026-08-10T20:03:29+08:00",
+  "generated_at": "2026-08-10T20:06:30+08:00",
   "timezone": "Asia/Shanghai",
   "status": "ready",
   "edition": "evening",
@@ -250,7 +250,7 @@
           "title": "This new technique could improve AI output accuracy by 80%",
           "original_title": "This new technique could improve AI output accuracy by 80% – and tackle hallucinations once and for all",
           "facts": [
-            "The researchers' technique increased the rate of accurate answers from 29% to 66%.",
+            "The researchers' technique, which combined RAG with a simple graph system, increased the rate of accurate answers from 29% to 66%.",
             "实验对象与结果明确：英国 National Innovation Centre for Data 用 510 个跨来源推理问题测试多种方法；简单知识图谱与 RAG 组合把准确回答率从 29% 提到 66%，优于只依赖训练数据或普通 RAG。",
             "机制是把实体关系显式化：知识图谱将信息标注并连接成关系网络，为模型提供比切片文本更稳定的语义上下文，从而同时减少幻觉与遗漏，特别适合合规、声誉和财务风险较高的应用。",
             "图谱复杂度存在窗口约束：图谱过复杂会占满上下文，过简单又损失效果；企业需要按任务设计实体、关系和检索范围，而不是把全量知识一次性塞进提示。",
@@ -282,5 +282,8 @@
     "source_links_checked": true,
     "duplicates_checked": true,
     "facts_checked": true
-  }
+  },
+  "revised_at": "2026-08-10T20:06:30+08:00",
+  "revision": 1,
+  "revision_note": "Regenerated from revised Obsidian daily notes."
 }
