@@ -1,6 +1,6 @@
 {
   "schema_version": "1.0",
-  "generated_at": "2026-08-10T23:53:11+08:00",
+  "generated_at": "2026-08-11T18:26:40+08:00",
   "status": "ready",
   "trends": [
     {
@@ -501,6 +501,23 @@
       "last_updated_at": "2026-08-02"
     },
     {
+      "trend_id": "trend_bcb023b5f6d1",
+      "trend_name": "中国品牌出海转向本地体系扎根",
+      "description": "中企进入东南亚已从轻量铺货转向供应链与运营体系扎根，本地合规能力正在成为品牌长期经营的组成部分。",
+      "related_item_ids": [
+        "item_aa664cd87823"
+      ],
+      "sections": [
+        "广告与营销"
+      ],
+      "brands": [
+        "本地化"
+      ],
+      "platforms": [],
+      "first_seen_at": "2026-08-11",
+      "last_updated_at": "2026-08-11"
+    },
+    {
       "trend_id": "trend_856997b4b3c5",
       "trend_name": "中国平台经济再定价",
       "description": "海外投资者也在重新定价中国平台经济，阿里、京东、拼多多的关注点回到政策、外卖和即时零售竞争。",
@@ -614,6 +631,23 @@
       ],
       "first_seen_at": "2026-07-27",
       "last_updated_at": "2026-07-27"
+    },
+    {
+      "trend_id": "trend_50de6f4efcf8",
+      "trend_name": "产品传播基因驱动中国品牌全球化",
+      "description": "中国消费品牌出海正在把“产品自带传播”与 KOL/KOC 分层放大、渠道反推和市场在地化连成一条增长链。",
+      "related_item_ids": [
+        "item_cffe8af1aca1"
+      ],
+      "sections": [
+        "广告与营销"
+      ],
+      "brands": [
+        "阿麦斯"
+      ],
+      "platforms": [],
+      "first_seen_at": "2026-08-11",
+      "last_updated_at": "2026-08-11"
     },
     {
       "trend_id": "trend_04d88dbf16a6",
@@ -1228,6 +1262,21 @@
       "last_updated_at": "2026-08-01"
     },
     {
+      "trend_id": "trend_dd51324034ab",
+      "trend_name": "广告控股集团以整合换取客户集中",
+      "description": "WPP 的收缩与整合开始换来客户集中委托和收入降幅收窄，但增长恢复仍要等到 2027 年。",
+      "related_item_ids": [
+        "item_274c1eb129a2"
+      ],
+      "sections": [
+        "广告与营销"
+      ],
+      "brands": [],
+      "platforms": [],
+      "first_seen_at": "2026-08-11",
+      "last_updated_at": "2026-08-11"
+    },
+    {
       "trend_id": "trend_2bea3e71a092",
       "trend_name": "广告直销自动化压缩中间链路",
       "description": "Google 正利用广告服务器的数据优势自动化媒体直销，迫使传统程序化链路重新证明中间环节的价值。",
@@ -1243,6 +1292,38 @@
       ],
       "first_seen_at": "2026-08-07",
       "last_updated_at": "2026-08-07"
+    },
+    {
+      "trend_id": "trend_f616aadeaa68",
+      "trend_name": "快消测量从渠道回报转向增量销量",
+      "description": "快消品牌正把 ROAS 从单一答案降级为诊断信号，媒介决策必须回到新客与增量销量。",
+      "related_item_ids": [
+        "item_36a3dd919d92"
+      ],
+      "sections": [
+        "广告与营销"
+      ],
+      "brands": [
+        "LiquidDeath"
+      ],
+      "platforms": [],
+      "first_seen_at": "2026-08-11",
+      "last_updated_at": "2026-08-11"
+    },
+    {
+      "trend_id": "trend_5f8c136af338",
+      "trend_name": "户外广告事件化与社交化",
+      "description": "户外广告的价值重心正从静态曝光转向现场体验、社交二传和可量化的事件影响力。",
+      "related_item_ids": [
+        "item_2b53c02eb51a"
+      ],
+      "sections": [
+        "广告与营销"
+      ],
+      "brands": [],
+      "platforms": [],
+      "first_seen_at": "2026-08-11",
+      "last_updated_at": "2026-08-11"
     },
     {
       "trend_id": "trend_942c6ab4555b",
@@ -1491,6 +1572,23 @@
       "last_updated_at": "2026-08-07"
     },
     {
+      "trend_id": "trend_5255fdf3572a",
+      "trend_name": "种草数据进入产品经营上游",
+      "description": "种草正在从上市后的传播动作进入产品、预算和渠道决策，评论与搜索行为开始直接改写经营动作。",
+      "related_item_ids": [
+        "item_873eef075573"
+      ],
+      "sections": [
+        "广告与营销"
+      ],
+      "brands": [],
+      "platforms": [
+        "小红书"
+      ],
+      "first_seen_at": "2026-08-11",
+      "last_updated_at": "2026-08-11"
+    },
+    {
       "trend_id": "trend_7d761baef0ad",
       "trend_name": "稀缺分销品牌面临促销压力",
       "description": "Birkenstock 的增长预期仍稳，但折扣款扩张正在挑战稀缺分销和高全价售罄构成的品牌热度。",
@@ -1506,6 +1604,23 @@
       "platforms": [],
       "first_seen_at": "2026-08-07",
       "last_updated_at": "2026-08-07"
+    },
+    {
+      "trend_id": "trend_4420a7f929b9",
+      "trend_name": "程序化优化前移至竞价前",
+      "description": "程序化广告优化正在前移到竞价之前：先筛掉低质库存，再谈出价，才能同时改善成本、可见度和无效流量。",
+      "related_item_ids": [
+        "item_7d0a1156391e"
+      ],
+      "sections": [
+        "广告与营销"
+      ],
+      "brands": [
+        "GeorgiaPacific"
+      ],
+      "platforms": [],
+      "first_seen_at": "2026-08-11",
+      "last_updated_at": "2026-08-11"
     },
     {
       "trend_id": "trend_f07b6beb3764",
@@ -1963,6 +2078,23 @@
       "platforms": [],
       "first_seen_at": "2026-07-29",
       "last_updated_at": "2026-07-29"
+    },
+    {
+      "trend_id": "trend_422a67d0f6ff",
+      "trend_name": "重大事件营销从插播转向效用",
+      "description": "重大赛事中的有效品牌介入，不一定购买更多广告，而是把观众反感的中断改造成可参与的产品使用场景。",
+      "related_item_ids": [
+        "item_dcd0ffb9bc47"
+      ],
+      "sections": [
+        "广告与营销"
+      ],
+      "brands": [
+        "LaVie"
+      ],
+      "platforms": [],
+      "first_seen_at": "2026-08-11",
+      "last_updated_at": "2026-08-11"
     },
     {
       "trend_id": "trend_64c1e0af4f7b",
