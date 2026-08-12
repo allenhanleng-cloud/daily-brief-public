@@ -1,6 +1,6 @@
 {
   "schema_version": "1.0",
-  "generated_at": "2026-08-11T18:26:40+08:00",
+  "generated_at": "2026-08-12T18:56:17+08:00",
   "status": "ready",
   "trends": [
     {
@@ -582,6 +582,23 @@
       "platforms": [],
       "first_seen_at": "2026-08-07",
       "last_updated_at": "2026-08-07"
+    },
+    {
+      "trend_id": "trend_a1440611886c",
+      "trend_name": "中国美妆ODM从成本中心升级为全球上新网络",
+      "description": "中国美妆供应链正在用分层ODM网络把大规模备案、快速迭代和全球合规组合成出海基础设施。",
+      "related_item_ids": [
+        "item_2437d24e1045"
+      ],
+      "sections": [
+        "美妆护肤"
+      ],
+      "brands": [
+        "SHEGLAM"
+      ],
+      "platforms": [],
+      "first_seen_at": "2026-08-12",
+      "last_updated_at": "2026-08-12"
     },
     {
       "trend_id": "trend_19b366e9eef2",
@@ -1198,6 +1215,23 @@
       "last_updated_at": "2026-08-01"
     },
     {
+      "trend_id": "trend_4fe30a05e236",
+      "trend_name": "大单品以多质地适配细分肤质与地域",
+      "description": "抗老大单品的下一轮升级由同一功效多质地驱动，让地区、季节和肤质成为货盘设计变量。",
+      "related_item_ids": [
+        "item_5f07e2dc8042"
+      ],
+      "sections": [
+        "美妆护肤"
+      ],
+      "brands": [
+        "OLAY"
+      ],
+      "platforms": [],
+      "first_seen_at": "2026-08-12",
+      "last_updated_at": "2026-08-12"
+    },
+    {
       "trend_id": "trend_01abffcb9abe",
       "trend_name": "大赛营销正在倒逼运动品牌证明预算回报率",
       "description": "世界杯带来的销量增长，并不能自动转化为运动品牌的利润弹性。",
@@ -1341,6 +1375,40 @@
       ],
       "first_seen_at": "2026-07-26",
       "last_updated_at": "2026-07-26"
+    },
+    {
+      "trend_id": "trend_accd80690e70",
+      "trend_name": "抗老品牌用成熟年龄叙事重写节日礼赠",
+      "description": "七夕美妆联名正在从一次性礼盒转向年龄、自我实现与日常仪式感的内容叙事。",
+      "related_item_ids": [
+        "item_dd3cd64f9f34"
+      ],
+      "sections": [
+        "美妆护肤"
+      ],
+      "brands": [
+        "OLAY"
+      ],
+      "platforms": [],
+      "first_seen_at": "2026-08-12",
+      "last_updated_at": "2026-08-12"
+    },
+    {
+      "trend_id": "trend_d11b00d8e429",
+      "trend_name": "护肤从泛功效走向具体场景经营",
+      "description": "护肤增长正在从泛功效词转向可验证的具体生活场景，命名、套装和渠道打法都要跟着场景重做。",
+      "related_item_ids": [
+        "item_6f62af930ad1"
+      ],
+      "sections": [
+        "美妆护肤"
+      ],
+      "brands": [],
+      "platforms": [
+        "抖音"
+      ],
+      "first_seen_at": "2026-08-12",
+      "last_updated_at": "2026-08-12"
     },
     {
       "trend_id": "trend_15ed12446c99",
@@ -1640,6 +1708,38 @@
       "last_updated_at": "2026-07-28"
     },
     {
+      "trend_id": "trend_6a6b4b115eb5",
+      "trend_name": "美妆代言从人像官宣转向限定货盘启动",
+      "description": "代言合作正把明星粉丝资产、问题肌定位与限定货盘绑成一次完整的新品启动。",
+      "related_item_ids": [
+        "item_3cbd3f7eed45"
+      ],
+      "sections": [
+        "美妆护肤"
+      ],
+      "brands": [
+        "ilso"
+      ],
+      "platforms": [],
+      "first_seen_at": "2026-08-12",
+      "last_updated_at": "2026-08-12"
+    },
+    {
+      "trend_id": "trend_e890f13497f5",
+      "trend_name": "美妆创作者把粉丝关系升级为线下社区资产",
+      "description": "美妆创作者开始把线上信任转成小规模高触达活动，并由参与者UGC继续放大零售转化。",
+      "related_item_ids": [
+        "item_9819012b6a16"
+      ],
+      "sections": [
+        "美妆护肤"
+      ],
+      "brands": [],
+      "platforms": [],
+      "first_seen_at": "2026-08-12",
+      "last_updated_at": "2026-08-12"
+    },
+    {
       "trend_id": "trend_ad2b586210ba",
       "trend_name": "美妆合规成为品牌增长底线",
       "description": "化妆品监管从罚款走向信用约束，非法添加的品牌代价被显著放大。",
@@ -1839,6 +1939,25 @@
       "platforms": [],
       "first_seen_at": "2026-07-26",
       "last_updated_at": "2026-07-26"
+    },
+    {
+      "trend_id": "trend_3b8a7ec0e09c",
+      "trend_name": "老牌国货美妆用内容电商重做增长",
+      "description": "老牌国货美妆在抖音的复兴不是单纯投流，而是渠道专供爆品、头部达人深绑和自播转化的组合。",
+      "related_item_ids": [
+        "item_535d5b4dd600"
+      ],
+      "sections": [
+        "美妆护肤"
+      ],
+      "brands": [
+        "百雀羚"
+      ],
+      "platforms": [
+        "抖音"
+      ],
+      "first_seen_at": "2026-08-12",
+      "last_updated_at": "2026-08-12"
     },
     {
       "trend_id": "trend_08d618f46015",
@@ -2144,6 +2263,23 @@
       "platforms": [],
       "first_seen_at": "2026-07-30",
       "last_updated_at": "2026-07-30"
+    },
+    {
+      "trend_id": "trend_73d142ef98af",
+      "trend_name": "香氛品牌从广告赞助转向共同制作文化内容",
+      "description": "大众香氛品牌正从传统插播广告转向共同制作内容，用文化叙事覆盖发现、身份表达与新品教育。",
+      "related_item_ids": [
+        "item_1deaa6060a57"
+      ],
+      "sections": [
+        "美妆护肤"
+      ],
+      "brands": [
+        "Eos"
+      ],
+      "platforms": [],
+      "first_seen_at": "2026-08-12",
+      "last_updated_at": "2026-08-12"
     },
     {
       "trend_id": "trend_b728def1235e",
