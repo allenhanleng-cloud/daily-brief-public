@@ -1,6 +1,6 @@
 {
   "schema_version": "1.0",
-  "generated_at": "2026-08-12T18:56:17+08:00",
+  "generated_at": "2026-08-13T19:06:21+08:00",
   "status": "ready",
   "trends": [
     {
@@ -901,6 +901,23 @@
       "last_updated_at": "2026-08-02"
     },
     {
+      "trend_id": "trend_848edf36638c",
+      "trend_name": "兴趣电商用可参与场景连接内容与货品",
+      "description": "淘宝把二次元“谷子”重新翻译成可吃、可种、可收藏的商品体验，用线下场景为兴趣消费制造可分享入口。",
+      "related_item_ids": [
+        "item_24e280c2b636"
+      ],
+      "sections": [
+        "电商与内容电商"
+      ],
+      "brands": [],
+      "platforms": [
+        "淘宝"
+      ],
+      "first_seen_at": "2026-08-13",
+      "last_updated_at": "2026-08-13"
+    },
+    {
       "trend_id": "trend_c73038299807",
       "trend_name": "内容平台AI身份治理账号化",
       "description": "小红书把 AI 内容治理从单篇笔记推进到账号身份层，虚拟人账号的合规状态开始直接关联分发和工具权益。",
@@ -967,6 +984,23 @@
       "last_updated_at": "2026-07-30"
     },
     {
+      "trend_id": "trend_3d2344ebbd8b",
+      "trend_name": "内容电商进入货盘与人群精运营阶段",
+      "description": "抖音电商增速降到20%附近后，增长重心从流量扩张转向高客单货盘、店播和广告人群的精细耦合。",
+      "related_item_ids": [
+        "item_f1256ce82b35"
+      ],
+      "sections": [
+        "电商与内容电商"
+      ],
+      "brands": [],
+      "platforms": [
+        "抖音电商"
+      ],
+      "first_seen_at": "2026-08-13",
+      "last_updated_at": "2026-08-13"
+    },
+    {
       "trend_id": "trend_14aa8ac9a0e8",
       "trend_name": "创作者营销从曝光采买走向渠道伙伴化",
       "description": "创作者营销正在从一次性曝光转向长期教育、佣金和社群经营。",
@@ -1014,6 +1048,23 @@
       "platforms": [],
       "first_seen_at": "2026-07-28",
       "last_updated_at": "2026-07-28"
+    },
+    {
+      "trend_id": "trend_55dfcc9a8e9e",
+      "trend_name": "即时零售从统一时效竞赛转向多模型分层",
+      "description": "即时零售不再只有30分钟一种答案，四大平台正以时效、供给和成本结构划分不同消费场景。",
+      "related_item_ids": [
+        "item_135d04cf6fbb"
+      ],
+      "sections": [
+        "电商与内容电商"
+      ],
+      "brands": [],
+      "platforms": [
+        "拼多多美团京东淘宝闪购"
+      ],
+      "first_seen_at": "2026-08-13",
+      "last_updated_at": "2026-08-13"
     },
     {
       "trend_id": "trend_6e8013ab7e06",
@@ -1279,6 +1330,23 @@
       "last_updated_at": "2026-07-28"
     },
     {
+      "trend_id": "trend_34a6fa17307c",
+      "trend_name": "平台税务合规从规则发布进入自动对账退款阶段",
+      "description": "印尼电商税延期把平台合规迅速变成商家现金流问题，自动退款能力成为新规上线后的运营基础设施。",
+      "related_item_ids": [
+        "item_a4ddd3f6a867"
+      ],
+      "sections": [
+        "电商与内容电商"
+      ],
+      "brands": [],
+      "platforms": [
+        "TokopediaShopee"
+      ],
+      "first_seen_at": "2026-08-13",
+      "last_updated_at": "2026-08-13"
+    },
+    {
       "trend_id": "trend_490a2c0cf69a",
       "trend_name": "广告平台开始把创意生产和交易经营并到同一工作流",
       "description": "TikTok 正把广告、商品目录、GMV 优化和创意生成合并进同一套操作系统，营销团队会越来越像经营团队。",
@@ -1326,6 +1394,23 @@
       ],
       "first_seen_at": "2026-08-07",
       "last_updated_at": "2026-08-07"
+    },
+    {
+      "trend_id": "trend_6785ea543379",
+      "trend_name": "微信生态把内容会员与交易闭环合并",
+      "description": "微信把视频号内容、会员卡和微信小店促销串成私域成交链路，零售媒体收入与交易增量同步放大。",
+      "related_item_ids": [
+        "item_5828abe7e2a7"
+      ],
+      "sections": [
+        "电商与内容电商"
+      ],
+      "brands": [],
+      "platforms": [
+        "微信小店"
+      ],
+      "first_seen_at": "2026-08-13",
+      "last_updated_at": "2026-08-13"
     },
     {
       "trend_id": "trend_f616aadeaa68",
@@ -1554,6 +1639,23 @@
       "last_updated_at": "2026-07-27"
     },
     {
+      "trend_id": "trend_a888c9525712",
+      "trend_name": "电商履约从配送能力升级为全渠道供应链服务",
+      "description": "京东物流用综合供应链客户、前置节点和海外仓扩大收入，履约竞争从单票配送转向库存周转与多渠道运营。",
+      "related_item_ids": [
+        "item_1ad0ba075528"
+      ],
+      "sections": [
+        "电商与内容电商"
+      ],
+      "brands": [],
+      "platforms": [
+        "京东物流"
+      ],
+      "first_seen_at": "2026-08-13",
+      "last_updated_at": "2026-08-13"
+    },
+    {
       "trend_id": "trend_f3c1e6ab93cf",
       "trend_name": "电商平台从交易入口转向生活方式品牌",
       "description": "天猫正在把平台营销从大促曝光推进到“新生活”价值叙事和品牌共创。",
@@ -1588,6 +1690,23 @@
       "last_updated_at": "2026-07-29"
     },
     {
+      "trend_id": "trend_2876d51d70d1",
+      "trend_name": "电商经营工具从单点助手转向跨后台任务链",
+      "description": "天猫把新商冷启动从多个后台工具压成对话式经营链路，商家上新和分析效率开始直接以人效结果衡量。",
+      "related_item_ids": [
+        "item_cf7759f8ce74"
+      ],
+      "sections": [
+        "电商与内容电商"
+      ],
+      "brands": [],
+      "platforms": [
+        "天猫"
+      ],
+      "first_seen_at": "2026-08-13",
+      "last_updated_at": "2026-08-13"
+    },
+    {
       "trend_id": "trend_fc18f6ff2945",
       "trend_name": "短视频广告平台从流量采买走向投放自动化闭环",
       "description": "TikTok 把品牌广告、搜索、商店和 AI 素材纳入同一自动化投放链路。",
@@ -1603,6 +1722,23 @@
       ],
       "first_seen_at": "2026-07-29",
       "last_updated_at": "2026-07-29"
+    },
+    {
+      "trend_id": "trend_c68429820326",
+      "trend_name": "社交电商交易入口从内容流向商城页迁移",
+      "description": "TikTok Shop的增长正在从视频和直播转向商城入口，但头部商店扩张与大量零成交卖家并存。",
+      "related_item_ids": [
+        "item_6f50e1bbf1ad"
+      ],
+      "sections": [
+        "电商与内容电商"
+      ],
+      "brands": [],
+      "platforms": [
+        "TikTokShop"
+      ],
+      "first_seen_at": "2026-08-13",
+      "last_updated_at": "2026-08-13"
     },
     {
       "trend_id": "trend_131be39bc143",
