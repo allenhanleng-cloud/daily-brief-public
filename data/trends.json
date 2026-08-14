@@ -1,6 +1,6 @@
 {
   "schema_version": "1.0",
-  "generated_at": "2026-08-13T19:06:21+08:00",
+  "generated_at": "2026-08-14T18:26:32+08:00",
   "status": "ready",
   "trends": [
     {
@@ -449,6 +449,23 @@
       "platforms": [],
       "first_seen_at": "2026-08-02",
       "last_updated_at": "2026-08-02"
+    },
+    {
+      "trend_id": "trend_19144d3a2cf7",
+      "trend_name": "专业跑步品牌向越野与生活方式两端扩张",
+      "description": "Brooks的增长不只来自公路跑大盘，而是越野、生活方式和专营零售同时放大专业跑步资产。",
+      "related_item_ids": [
+        "item_60e496f9d184"
+      ],
+      "sections": [
+        "运动穿搭"
+      ],
+      "brands": [
+        "Brooks"
+      ],
+      "platforms": [],
+      "first_seen_at": "2026-08-14",
+      "last_updated_at": "2026-08-14"
     },
     {
       "trend_id": "trend_e7aa4d80fdeb",
@@ -2188,6 +2205,59 @@
       "last_updated_at": "2026-08-10"
     },
     {
+      "trend_id": "trend_26389d2ad278",
+      "trend_name": "赛事曝光需要产品与渠道承接才能转化",
+      "description": "世界杯和HYROX的高曝光并未自动转成彪马增长，渠道清理、减少促销和运动时尚爆款正在共同检验品牌重置的耐心。",
+      "related_item_ids": [
+        "item_3133c9881a12"
+      ],
+      "sections": [
+        "运动穿搭"
+      ],
+      "brands": [
+        "HYROX",
+        "彪马"
+      ],
+      "platforms": [],
+      "first_seen_at": "2026-08-14",
+      "last_updated_at": "2026-08-14"
+    },
+    {
+      "trend_id": "trend_a9fbb55ac96b",
+      "trend_name": "赛前通道成为体育与时尚的新增内容资产",
+      "description": "运动员入场造型正在把赛前通道变成新的媒体位，联名、文化身份和粉丝穿搭共同扩大赛事商业叙事。",
+      "related_item_ids": [
+        "item_3ad6ac91ad96"
+      ],
+      "sections": [
+        "运动穿搭"
+      ],
+      "brands": [
+        "Jacquemus",
+        "Loewe"
+      ],
+      "platforms": [],
+      "first_seen_at": "2026-08-14",
+      "last_updated_at": "2026-08-14"
+    },
+    {
+      "trend_id": "trend_6d587ada99a0",
+      "trend_name": "跑鞋品牌用价格纪律换取长期高端化",
+      "description": "On宁愿在美国促销潮中控制旧款供给，也要守住高端价格；短期销售和股价代价换来的，是毛利率与新品周期的品牌资产。",
+      "related_item_ids": [
+        "item_990e75a2e1a7"
+      ],
+      "sections": [
+        "运动穿搭"
+      ],
+      "brands": [
+        "On"
+      ],
+      "platforms": [],
+      "first_seen_at": "2026-08-14",
+      "last_updated_at": "2026-08-14"
+    },
+    {
       "trend_id": "trend_7e4193cfe3f7",
       "trend_name": "跑鞋品牌高增长进入全价售卖和产品矩阵验证期",
       "description": "Hoka 高增长开始接受投资者检验，跑鞋品牌需要用 DTC、新品和全价售卖证明可持续。",
@@ -2318,6 +2388,43 @@
       "last_updated_at": "2026-07-30"
     },
     {
+      "trend_id": "trend_17014cda2c8b",
+      "trend_name": "运动生活方式品牌争夺核心城市流量节点",
+      "description": "高端运动休闲品牌在中国的竞争已前置到开店之前：核心商圈选址、跑团瑜伽社群和生活方式内容共同决定首店效率。",
+      "related_item_ids": [
+        "item_456e4556fce8"
+      ],
+      "sections": [
+        "运动穿搭"
+      ],
+      "brands": [
+        "NikeSKIMS"
+      ],
+      "platforms": [
+        "小红书"
+      ],
+      "first_seen_at": "2026-08-14",
+      "last_updated_at": "2026-08-14"
+    },
+    {
+      "trend_id": "trend_09728d97e5b3",
+      "trend_name": "运动经销商从规模分销转向库存与渠道效率",
+      "description": "传统运动经销商正以关店、控折扣和库存跨渠道流动换取利润修复，但耐克线上授权终止使收入替代成为下一道硬门槛。",
+      "related_item_ids": [
+        "item_4b52f40e0c19"
+      ],
+      "sections": [
+        "运动穿搭"
+      ],
+      "brands": [
+        "宝胜国际",
+        "耐克"
+      ],
+      "platforms": [],
+      "first_seen_at": "2026-08-14",
+      "last_updated_at": "2026-08-14"
+    },
+    {
       "trend_id": "trend_c740e9140e62",
       "trend_name": "逆向物流从成本中心转向可交易库存池",
       "description": "二手平台把无法投递包裹重新上架，逆向物流正在被产品化为库存回收机制。",
@@ -2386,6 +2493,24 @@
       "last_updated_at": "2026-07-29"
     },
     {
+      "trend_id": "trend_65316f6463f6",
+      "trend_name": "青少年运动装备成为品牌心智入口",
+      "description": "体考鞋正在从一次性应试装备变成国产垂直运动品牌争夺青少年心智、专业资源和跨品类增长的入口。",
+      "related_item_ids": [
+        "item_89ed8b5a9a52"
+      ],
+      "sections": [
+        "运动穿搭"
+      ],
+      "brands": [
+        "安踏",
+        "沃兰迪"
+      ],
+      "platforms": [],
+      "first_seen_at": "2026-08-14",
+      "last_updated_at": "2026-08-14"
+    },
+    {
       "trend_id": "trend_372ae61080f4",
       "trend_name": "预算收紧下的品牌创意转向轻量高记忆表达",
       "description": "品牌案例的有效创新越来越依赖小洞察和低成本执行，而不是更大的制作规模。",
@@ -2446,6 +2571,25 @@
       "platforms": [],
       "first_seen_at": "2026-08-07",
       "last_updated_at": "2026-08-07"
+    },
+    {
+      "trend_id": "trend_eb6b4a03839a",
+      "trend_name": "高端运动休闲从明星种草转向体验闭环",
+      "description": "Alo入华证明高端瑜伽服的竞争核心不是明星同款本身，而是正品认知、产品力、稀缺渠道和生活方式社群能否闭环。",
+      "related_item_ids": [
+        "item_1b5953c8aa26"
+      ],
+      "sections": [
+        "运动穿搭"
+      ],
+      "brands": [
+        "Alo"
+      ],
+      "platforms": [
+        "天猫"
+      ],
+      "first_seen_at": "2026-08-14",
+      "last_updated_at": "2026-08-14"
     },
     {
       "trend_id": "trend_70f92191af8b",
