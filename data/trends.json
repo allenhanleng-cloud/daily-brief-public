@@ -1,6 +1,6 @@
 {
   "schema_version": "1.0",
-  "generated_at": "2026-08-14T18:26:32+08:00",
+  "generated_at": "2026-08-17T18:35:03+08:00",
   "status": "ready",
   "trends": [
     {
@@ -62,6 +62,21 @@
       "platforms": [],
       "first_seen_at": "2026-08-02",
       "last_updated_at": "2026-08-02"
+    },
+    {
+      "trend_id": "trend_c0cd9557e3b5",
+      "trend_name": "AI 陪伴产品必须设计服务终止机制",
+      "description": "儿童 AI 陪伴的价值取决于长期服务而不只是对话能力",
+      "related_item_ids": [
+        "item_13298ed20f8f"
+      ],
+      "sections": [
+        "AI 应用"
+      ],
+      "brands": [],
+      "platforms": [],
+      "first_seen_at": "2026-08-17",
+      "last_updated_at": "2026-08-17"
     },
     {
       "trend_id": "trend_2ea74d35fd90",
@@ -518,6 +533,21 @@
       "last_updated_at": "2026-08-02"
     },
     {
+      "trend_id": "trend_b3753197c487",
+      "trend_name": "个人信息流从算法推荐转向可控 Agent",
+      "description": "个人 Agent 把信息筛选从搜索动作变成可训练的编辑工作流",
+      "related_item_ids": [
+        "item_06f745ec6063"
+      ],
+      "sections": [
+        "AI 应用"
+      ],
+      "brands": [],
+      "platforms": [],
+      "first_seen_at": "2026-08-17",
+      "last_updated_at": "2026-08-17"
+    },
+    {
       "trend_id": "trend_bcb023b5f6d1",
       "trend_name": "中国品牌出海转向本地体系扎根",
       "description": "中企进入东南亚已从轻量铺货转向供应链与运营体系扎根，本地合规能力正在成为品牌长期经营的组成部分。",
@@ -853,6 +883,51 @@
       "last_updated_at": "2026-08-02"
     },
     {
+      "trend_id": "trend_9b62d766f421",
+      "trend_name": "企业模型采购进入单位任务成本竞争",
+      "description": "企业 AI 的购买标准正在从能力榜单转向单位任务经济性",
+      "related_item_ids": [
+        "item_686dff2c04b7"
+      ],
+      "sections": [
+        "AI 应用"
+      ],
+      "brands": [],
+      "platforms": [],
+      "first_seen_at": "2026-08-17",
+      "last_updated_at": "2026-08-17"
+    },
+    {
+      "trend_id": "trend_82ececdb3524",
+      "trend_name": "企业软件把 Agent 纳入权限与审计体系",
+      "description": "企业 Agent 开始以有权限、可审计的团队成员进入项目系统",
+      "related_item_ids": [
+        "item_9c908d59cbc6"
+      ],
+      "sections": [
+        "AI 应用"
+      ],
+      "brands": [],
+      "platforms": [],
+      "first_seen_at": "2026-08-17",
+      "last_updated_at": "2026-08-17"
+    },
+    {
+      "trend_id": "trend_2b536819ef98",
+      "trend_name": "会议内容自动进入企业知识库",
+      "description": "线下会议开始直接进入 AI 纪要与知识沉淀链路",
+      "related_item_ids": [
+        "item_3775d25d30d5"
+      ],
+      "sections": [
+        "AI 应用"
+      ],
+      "brands": [],
+      "platforms": [],
+      "first_seen_at": "2026-08-17",
+      "last_updated_at": "2026-08-17"
+    },
+    {
       "trend_id": "trend_4132201f8f96",
       "trend_name": "体育营销开始从买曝光转向技术与场景深度嵌入",
       "description": "体育营销下半场的核心变化，不是继续砸赞助费，而是把技术、球星和内容资产更深地嵌进赛事场景。",
@@ -933,6 +1008,21 @@
       ],
       "first_seen_at": "2026-08-13",
       "last_updated_at": "2026-08-13"
+    },
+    {
+      "trend_id": "trend_625a3424d834",
+      "trend_name": "具身智能从本体竞赛转向工序交付",
+      "description": "工业机器人正在从单机演示转向整条任务链的可验证交付",
+      "related_item_ids": [
+        "item_363dbbc68168"
+      ],
+      "sections": [
+        "AI 应用"
+      ],
+      "brands": [],
+      "platforms": [],
+      "first_seen_at": "2026-08-17",
+      "last_updated_at": "2026-08-17"
     },
     {
       "trend_id": "trend_c73038299807",
@@ -1624,6 +1714,21 @@
       "last_updated_at": "2026-07-26"
     },
     {
+      "trend_id": "trend_fb736824264e",
+      "trend_name": "生成式办公进入可维护资产阶段",
+      "description": "AI 办公的价值开始从生成首稿转向持续协作与维护",
+      "related_item_ids": [
+        "item_ae2c190e280c"
+      ],
+      "sections": [
+        "AI 应用"
+      ],
+      "brands": [],
+      "platforms": [],
+      "first_seen_at": "2026-08-17",
+      "last_updated_at": "2026-08-17"
+    },
+    {
       "trend_id": "trend_f5129fb66126",
       "trend_name": "生成式视频进入工业化制作",
       "description": "AI 视频的竞争正从单次生成转向可管理、可修改的生产工作流",
@@ -2158,6 +2263,21 @@
       "platforms": [],
       "first_seen_at": "2026-08-07",
       "last_updated_at": "2026-08-07"
+    },
+    {
+      "trend_id": "trend_ee5ac0353619",
+      "trend_name": "自动驾驶货运进入区域规模化验证",
+      "description": "自动驾驶货运从试验场进入真实高速公路与岗位博弈",
+      "related_item_ids": [
+        "item_f6c888e36433"
+      ],
+      "sections": [
+        "AI 应用"
+      ],
+      "brands": [],
+      "platforms": [],
+      "first_seen_at": "2026-08-17",
+      "last_updated_at": "2026-08-17"
     },
     {
       "trend_id": "trend_0d6661a5b33b",
