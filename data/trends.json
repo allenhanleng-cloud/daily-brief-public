@@ -1,6 +1,6 @@
 {
   "schema_version": "1.0",
-  "generated_at": "2026-08-17T18:35:03+08:00",
+  "generated_at": "2026-08-18T18:24:33+08:00",
   "status": "ready",
   "trends": [
     {
@@ -928,6 +928,23 @@
       "last_updated_at": "2026-08-17"
     },
     {
+      "trend_id": "trend_d029a210df7d",
+      "trend_name": "低频品类以公共议题经营长期信任",
+      "description": "低频大件也能持续经营社交讨论：先把用户疑问变成公共议题，再由高管、媒体、KOL和服务证据共同完成信任转化。",
+      "related_item_ids": [
+        "item_adb7eb2b7e79"
+      ],
+      "sections": [
+        "广告与营销"
+      ],
+      "brands": [
+        "家电"
+      ],
+      "platforms": [],
+      "first_seen_at": "2026-08-18",
+      "last_updated_at": "2026-08-18"
+    },
+    {
       "trend_id": "trend_4132201f8f96",
       "trend_name": "体育营销开始从买曝光转向技术与场景深度嵌入",
       "description": "体育营销下半场的核心变化，不是继续砸赞助费，而是把技术、球星和内容资产更深地嵌进赛事场景。",
@@ -1108,6 +1125,23 @@
       "last_updated_at": "2026-08-13"
     },
     {
+      "trend_id": "trend_269db450dfeb",
+      "trend_name": "创作者成为小众体育的新增观众入口",
+      "description": "小众项目使用创作者时，不应只买一次曝光；要把跨圈达人、运动员IP、现场事件和多平台内容做成连续获客系统。",
+      "related_item_ids": [
+        "item_ebf3f2f3480f"
+      ],
+      "sections": [
+        "广告与营销"
+      ],
+      "brands": [],
+      "platforms": [
+        "TikTok"
+      ],
+      "first_seen_at": "2026-08-18",
+      "last_updated_at": "2026-08-18"
+    },
+    {
       "trend_id": "trend_14aa8ac9a0e8",
       "trend_name": "创作者营销从曝光采买走向渠道伙伴化",
       "description": "创作者营销正在从一次性曝光转向长期教育、佣金和社群经营。",
@@ -1257,6 +1291,21 @@
       "platforms": [],
       "first_seen_at": "2026-07-28",
       "last_updated_at": "2026-07-28"
+    },
+    {
+      "trend_id": "trend_cbc70e01b23c",
+      "trend_name": "品牌社交从内容排期转向粉丝反馈系统",
+      "description": "social talkability要从“发内容”升级为粉丝运营系统：让核心用户同时承担扩散、聆听、快速研究和产品反馈。",
+      "related_item_ids": [
+        "item_290d73ddeeb2"
+      ],
+      "sections": [
+        "广告与营销"
+      ],
+      "brands": [],
+      "platforms": [],
+      "first_seen_at": "2026-08-18",
+      "last_updated_at": "2026-08-18"
     },
     {
       "trend_id": "trend_23c9c80b2255",
@@ -1535,6 +1584,23 @@
       "platforms": [],
       "first_seen_at": "2026-08-11",
       "last_updated_at": "2026-08-11"
+    },
+    {
+      "trend_id": "trend_bccdeade7851",
+      "trend_name": "成熟品类用结构缺口重做价值锚点",
+      "description": "成熟品类的增长不一定依靠新功能；先找到结构性缺口，再把配方差异翻译成当地消费者愿意认领的价值语言。",
+      "related_item_ids": [
+        "item_0a4defa93237"
+      ],
+      "sections": [
+        "广告与营销"
+      ],
+      "brands": [
+        "GreenCola"
+      ],
+      "platforms": [],
+      "first_seen_at": "2026-08-18",
+      "last_updated_at": "2026-08-18"
     },
     {
       "trend_id": "trend_5f8c136af338",
@@ -1881,6 +1947,21 @@
       "last_updated_at": "2026-07-28"
     },
     {
+      "trend_id": "trend_3c50d5157b0e",
+      "trend_name": "社交讨论度从曝光量转向可参与结构",
+      "description": "社交讨论度来自可复述、可模仿、可继续加料的开放结构；品牌借势前还要先设计争议失控时的停手机制。",
+      "related_item_ids": [
+        "item_b2a21ff0855d"
+      ],
+      "sections": [
+        "广告与营销"
+      ],
+      "brands": [],
+      "platforms": [],
+      "first_seen_at": "2026-08-18",
+      "last_updated_at": "2026-08-18"
+    },
+    {
       "trend_id": "trend_6dde06e712c3",
       "trend_name": "社群身份驱动挑战者美妆增长",
       "description": "挑战者美妆品牌正在用社群身份与娱乐化内容同时换取文化可信度和可量化站点增长。",
@@ -1896,6 +1977,23 @@
       "platforms": [],
       "first_seen_at": "2026-08-07",
       "last_updated_at": "2026-08-07"
+    },
+    {
+      "trend_id": "trend_7c8e3461b37b",
+      "trend_name": "种草内容从互动优化转向决策信息设计",
+      "description": "平台种草不能只优化点击和读完率；陌生、高决策产品要让达人内容完成从问题识别到购买判断的整段说服。",
+      "related_item_ids": [
+        "item_fcd468163f47"
+      ],
+      "sections": [
+        "广告与营销"
+      ],
+      "brands": [],
+      "platforms": [
+        "小红书"
+      ],
+      "first_seen_at": "2026-08-18",
+      "last_updated_at": "2026-08-18"
     },
     {
       "trend_id": "trend_5255fdf3572a",
@@ -2310,6 +2408,21 @@
       "last_updated_at": "2026-07-27"
     },
     {
+      "trend_id": "trend_cb4de7bf0cea",
+      "trend_name": "营销测量转向开源模型与实验校准",
+      "description": "开源MMM降低了测量门槛，但真正可用的体系仍需模型、实验与日常归因互相校准，不能把AI跑数当作答案。",
+      "related_item_ids": [
+        "item_e9eccb008521"
+      ],
+      "sections": [
+        "广告与营销"
+      ],
+      "brands": [],
+      "platforms": [],
+      "first_seen_at": "2026-08-18",
+      "last_updated_at": "2026-08-18"
+    },
+    {
       "trend_id": "trend_8a9fcd2e2d44",
       "trend_name": "语音成为下一代生产力入口",
       "description": "语音正在从输入工具变成直接产出邮件、纪要和业务动作的生产入口",
@@ -2611,6 +2724,21 @@
       ],
       "first_seen_at": "2026-07-29",
       "last_updated_at": "2026-07-29"
+    },
+    {
+      "trend_id": "trend_f118d4d92e24",
+      "trend_name": "青少年媒介计划从个人定向转向家庭决策",
+      "description": "Gen Alpha营销不能只买青少年平台流量；品牌发现、影响和付款分散在家庭成员之间，媒介计划必须按家庭角色拆分。",
+      "related_item_ids": [
+        "item_eaf033b2945e"
+      ],
+      "sections": [
+        "广告与营销"
+      ],
+      "brands": [],
+      "platforms": [],
+      "first_seen_at": "2026-08-18",
+      "last_updated_at": "2026-08-18"
     },
     {
       "trend_id": "trend_65316f6463f6",
