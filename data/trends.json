@@ -1,6 +1,6 @@
 {
   "schema_version": "1.0",
-  "generated_at": "2026-08-19T18:53:55+08:00",
+  "generated_at": "2026-08-19T18:57:50+08:00",
   "status": "ready",
   "trends": [
     {
@@ -2247,7 +2247,7 @@
     {
       "trend_id": "trend_77de7fb9023d",
       "trend_name": "美妆品牌用自嘲式社交内容修复代言真实性",
-      "description": "代言内容翻车后，品牌最有效的回应可能不是辩解，而是公开承认違和感并把批评改造成社交内容。",
+      "description": "代言内容翻车后，品牌最有效的回应可能不是辩解，而是公开承认违和感并把批评改造成社交内容。",
       "related_item_ids": [
         "item_b8b066fe86d8"
       ],
