@@ -1,6 +1,6 @@
 {
   "schema_version": "1.0",
-  "generated_at": "2026-08-18T18:24:33+08:00",
+  "generated_at": "2026-08-19T18:53:55+08:00",
   "status": "ready",
   "trends": [
     {
@@ -1226,6 +1226,23 @@
       "last_updated_at": "2026-07-27"
     },
     {
+      "trend_id": "trend_c92583779738",
+      "trend_name": "口碑型护肤品牌开始用自播承接证据型销售",
+      "description": "不依赖直播的护肤品牌也开始进入抖音自播，但可复用的不是叫卖话术，而是把产品证据链平移到实时咨询。",
+      "related_item_ids": [
+        "item_6bfc035e7b6b"
+      ],
+      "sections": [
+        "美妆护肤"
+      ],
+      "brands": [
+        "至本"
+      ],
+      "platforms": [],
+      "first_seen_at": "2026-08-19",
+      "last_updated_at": "2026-08-19"
+    },
+    {
       "trend_id": "trend_7905493f2295",
       "trend_name": "品牌建设开始更系统地围绕用户情绪与长期表达展开",
       "description": "本土品牌越来越重视情绪表达和用户共感，把品牌建设从功能沟通推向持续叙事。",
@@ -2047,6 +2064,23 @@
       "last_updated_at": "2026-08-11"
     },
     {
+      "trend_id": "trend_88413989e39f",
+      "trend_name": "美妆TP从店铺代运营转向端到端总代销",
+      "description": "美妆TP的盈利重建正从单一店铺代运营转向总代销，把选品、种草、抖音发售与线下分销组合成一体化经营。",
+      "related_item_ids": [
+        "item_46b7719c6f90"
+      ],
+      "sections": [
+        "美妆护肤"
+      ],
+      "brands": [],
+      "platforms": [
+        "天猫抖音"
+      ],
+      "first_seen_at": "2026-08-19",
+      "last_updated_at": "2026-08-19"
+    },
+    {
       "trend_id": "trend_f07b6beb3764",
       "trend_name": "美妆与健康货架融合",
       "description": "美妆零售正在把护肤、情绪和健康货架合并，品类边界被消费者体验重画。",
@@ -2064,6 +2098,23 @@
       "last_updated_at": "2026-07-28"
     },
     {
+      "trend_id": "trend_b56b78c1a092",
+      "trend_name": "美妆从成分热词走向证据型全身护理",
+      "description": "中国消费者正把大牌信仰改写为证据审查，头皮、身体与皮肤学级个护成为大集团的新场景增量。",
+      "related_item_ids": [
+        "item_370997f373ac"
+      ],
+      "sections": [
+        "美妆护肤"
+      ],
+      "brands": [
+        "宝洁"
+      ],
+      "platforms": [],
+      "first_seen_at": "2026-08-19",
+      "last_updated_at": "2026-08-19"
+    },
+    {
       "trend_id": "trend_6a6b4b115eb5",
       "trend_name": "美妆代言从人像官宣转向限定货盘启动",
       "description": "代言合作正把明星粉丝资产、问题肌定位与限定货盘绑成一次完整的新品启动。",
@@ -2079,6 +2130,38 @@
       "platforms": [],
       "first_seen_at": "2026-08-12",
       "last_updated_at": "2026-08-12"
+    },
+    {
+      "trend_id": "trend_51d381b74793",
+      "trend_name": "美妆会员从交易返点转向体验与数据互换",
+      "description": "专业美妆零售的会员竞争正从“花钱返点”转向活动、游戏化任务与数据换个性化的双向价值。",
+      "related_item_ids": [
+        "item_61392b54d31b"
+      ],
+      "sections": [
+        "美妆护肤"
+      ],
+      "brands": [],
+      "platforms": [],
+      "first_seen_at": "2026-08-19",
+      "last_updated_at": "2026-08-19"
+    },
+    {
+      "trend_id": "trend_f3982d81b544",
+      "trend_name": "美妆创作者复出先修复内容场再恢复交易场",
+      "description": "头部创作者的复出不再只看粉丝存量，而是先用内容爆发修复社区活性，再观察直播转化能否跟上。",
+      "related_item_ids": [
+        "item_d9ec9ddab91e"
+      ],
+      "sections": [
+        "美妆护肤"
+      ],
+      "brands": [],
+      "platforms": [
+        "抖音小红书"
+      ],
+      "first_seen_at": "2026-08-19",
+      "last_updated_at": "2026-08-19"
     },
     {
       "trend_id": "trend_e890f13497f5",
@@ -2160,6 +2243,23 @@
       "platforms": [],
       "first_seen_at": "2026-07-29",
       "last_updated_at": "2026-07-29"
+    },
+    {
+      "trend_id": "trend_77de7fb9023d",
+      "trend_name": "美妆品牌用自嘲式社交内容修复代言真实性",
+      "description": "代言内容翻车后，品牌最有效的回应可能不是辩解，而是公开承认違和感并把批评改造成社交内容。",
+      "related_item_ids": [
+        "item_b8b066fe86d8"
+      ],
+      "sections": [
+        "美妆护肤"
+      ],
+      "brands": [
+        "Neutrogena"
+      ],
+      "platforms": [],
+      "first_seen_at": "2026-08-19",
+      "last_updated_at": "2026-08-19"
     },
     {
       "trend_id": "trend_be3d1144b8e6",
@@ -2261,6 +2361,21 @@
       ],
       "first_seen_at": "2026-08-01",
       "last_updated_at": "2026-08-01"
+    },
+    {
+      "trend_id": "trend_84fd5e6fd216",
+      "trend_name": "美妆门店从标准货架转向在地场景服务",
+      "description": "美妆门店的增长不再只靠铺货，而是把商圈客群、演唱会妆造和文旅打卡改造成可复访的服务场景。",
+      "related_item_ids": [
+        "item_b80309a7f297"
+      ],
+      "sections": [
+        "美妆护肤"
+      ],
+      "brands": [],
+      "platforms": [],
+      "first_seen_at": "2026-08-19",
+      "last_updated_at": "2026-08-19"
     },
     {
       "trend_id": "trend_0f6646fee384",
@@ -2391,6 +2506,23 @@
       "platforms": [],
       "first_seen_at": "2026-08-10",
       "last_updated_at": "2026-08-10"
+    },
+    {
+      "trend_id": "trend_3a4eace0c4af",
+      "trend_name": "节日美妆从情侣礼赠转向女性共同体叙事",
+      "description": "七夕美妆营销正从情侣告白扩展至女性互相祝福，品牌用创作者、非遗礼盒和线下快闪统一表达。",
+      "related_item_ids": [
+        "item_9f1cd773b1f7"
+      ],
+      "sections": [
+        "美妆护肤"
+      ],
+      "brands": [
+        "百雀羚"
+      ],
+      "platforms": [],
+      "first_seen_at": "2026-08-19",
+      "last_updated_at": "2026-08-19"
     },
     {
       "trend_id": "trend_6b85d26743da",

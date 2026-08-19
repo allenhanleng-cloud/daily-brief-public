@@ -1,10 +1,11 @@
 {
   "schema_version": "1.0",
-  "latest_date": "2026-08-18",
+  "latest_date": "2026-08-19",
   "latest_file": "data/latest.json",
-  "generated_at": "2026-08-18T18:24:33+08:00",
+  "generated_at": "2026-08-19T18:53:55+08:00",
   "status": "ready",
   "available_dates": [
+    "2026-08-19",
     "2026-08-18",
     "2026-08-17",
     "2026-08-14",
