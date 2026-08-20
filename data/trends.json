@@ -1,6 +1,6 @@
 {
   "schema_version": "1.0",
-  "generated_at": "2026-08-19T18:57:50+08:00",
+  "generated_at": "2026-08-20T18:30:36+08:00",
   "status": "ready",
   "trends": [
     {
@@ -1226,6 +1226,57 @@
       "last_updated_at": "2026-07-27"
     },
     {
+      "trend_id": "trend_e53ac27f0805",
+      "trend_name": "即时零售从跑马圈地转向单仓经济复盘",
+      "description": "即时零售的门店扩张与销售额产出已经分化，下一阶段更看单城密度、单仓盈利和品类定位。",
+      "related_item_ids": [
+        "item_0001694070f1"
+      ],
+      "sections": [
+        "电商与内容电商"
+      ],
+      "brands": [],
+      "platforms": [
+        "美团淘宝"
+      ],
+      "first_seen_at": "2026-08-20",
+      "last_updated_at": "2026-08-20"
+    },
+    {
+      "trend_id": "trend_1edfab763875",
+      "trend_name": "即时零售平台用自营矩阵校准社会供给",
+      "description": "平台自营不是单一品牌扩张，而是在用多品类仓型建立终端控制、服务标杆与供应链规模效率。",
+      "related_item_ids": [
+        "item_6670c9b4531b"
+      ],
+      "sections": [
+        "电商与内容电商"
+      ],
+      "brands": [],
+      "platforms": [
+        "美团"
+      ],
+      "first_seen_at": "2026-08-20",
+      "last_updated_at": "2026-08-20"
+    },
+    {
+      "trend_id": "trend_2d88eed188fb",
+      "trend_name": "即时零售把节日礼赠做成跨品类组合订单",
+      "description": "七夕即时消费从单一鲜花扩展到美妆、饰品和组合礼赠，新增用户与低线城市成为主要增量。",
+      "related_item_ids": [
+        "item_67579d84a7b5"
+      ],
+      "sections": [
+        "电商与内容电商"
+      ],
+      "brands": [],
+      "platforms": [
+        "淘宝闪购"
+      ],
+      "first_seen_at": "2026-08-20",
+      "last_updated_at": "2026-08-20"
+    },
+    {
       "trend_id": "trend_c92583779738",
       "trend_name": "口碑型护肤品牌开始用自播承接证据型销售",
       "description": "不依赖直播的护肤品牌也开始进入抖音自播，但可复用的不是叫卖话术，而是把产品证据链平移到实时咨询。",
@@ -1501,6 +1552,23 @@
       ],
       "first_seen_at": "2026-07-28",
       "last_updated_at": "2026-07-28"
+    },
+    {
+      "trend_id": "trend_2625390a714d",
+      "trend_name": "平台用仲裁条款压缩集体诉讼暴露",
+      "description": "大型平台通过争议解决条款重设消费者救济路径，持续使用服务本身被纳入同意机制。",
+      "related_item_ids": [
+        "item_1a749431f2ec"
+      ],
+      "sections": [
+        "电商与内容电商"
+      ],
+      "brands": [],
+      "platforms": [
+        "Amazon"
+      ],
+      "first_seen_at": "2026-08-20",
+      "last_updated_at": "2026-08-20"
     },
     {
       "trend_id": "trend_34a6fa17307c",
@@ -1825,6 +1893,23 @@
       "platforms": [],
       "first_seen_at": "2026-08-10",
       "last_updated_at": "2026-08-10"
+    },
+    {
+      "trend_id": "trend_a18eefcc53b4",
+      "trend_name": "生鲜电商用半成品重构一人食供给",
+      "description": "快手菜正在填补外卖与家庭烹饪之间的价格和时间空档，生鲜平台用低价、小份和高频上新放大复购。",
+      "related_item_ids": [
+        "item_4a3bcab5e025"
+      ],
+      "sections": [
+        "电商与内容电商"
+      ],
+      "brands": [],
+      "platforms": [
+        "盒马叮咚"
+      ],
+      "first_seen_at": "2026-08-20",
+      "last_updated_at": "2026-08-20"
     },
     {
       "trend_id": "trend_3cf60e0ab50b",
@@ -2824,6 +2909,21 @@
       "last_updated_at": "2026-08-11"
     },
     {
+      "trend_id": "trend_81d4445ea3d8",
+      "trend_name": "闪电仓加盟增长让位于本地化精细运营",
+      "description": "闪电仓从全国铺量切换到本地化经营，货盘、管理半径和供应链成本比加盟速度更决定门店存活。",
+      "related_item_ids": [
+        "item_f447f35a2eb5"
+      ],
+      "sections": [
+        "电商与内容电商"
+      ],
+      "brands": [],
+      "platforms": [],
+      "first_seen_at": "2026-08-20",
+      "last_updated_at": "2026-08-20"
+    },
+    {
       "trend_id": "trend_64c1e0af4f7b",
       "trend_name": "零售AI从工具订阅转向经营结果",
       "description": "零售 AI 智能体开始进入选品、定价、门店和收益共享等经营环节。",
@@ -2839,6 +2939,38 @@
       "platforms": [],
       "first_seen_at": "2026-07-28",
       "last_updated_at": "2026-07-28"
+    },
+    {
+      "trend_id": "trend_110c25c5c2c8",
+      "trend_name": "零售媒体进入跨平台可比性建设阶段",
+      "description": "零售媒体网络的竞争正在从各自归因转向统一定义、共同回溯窗口和第三方验证。",
+      "related_item_ids": [
+        "item_2b5f59f94d08"
+      ],
+      "sections": [
+        "电商与内容电商"
+      ],
+      "brands": [],
+      "platforms": [],
+      "first_seen_at": "2026-08-20",
+      "last_updated_at": "2026-08-20"
+    },
+    {
+      "trend_id": "trend_464e31fea268",
+      "trend_name": "零售平台把商品标准前移到育苗和产地组织",
+      "description": "生鲜零售平台正在把销售预测、产地生态和小农组织写进同一条订单农业链路。",
+      "related_item_ids": [
+        "item_b746daa84166"
+      ],
+      "sections": [
+        "电商与内容电商"
+      ],
+      "brands": [],
+      "platforms": [
+        "盒马"
+      ],
+      "first_seen_at": "2026-08-20",
+      "last_updated_at": "2026-08-20"
     },
     {
       "trend_id": "trend_ffbe950c4fc4",
