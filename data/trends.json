@@ -1,6 +1,6 @@
 {
   "schema_version": "1.0",
-  "generated_at": "2026-08-20T18:30:36+08:00",
+  "generated_at": "2026-08-21T18:25:32+08:00",
   "status": "ready",
   "trends": [
     {
@@ -516,6 +516,23 @@
       "platforms": [],
       "first_seen_at": "2026-07-29",
       "last_updated_at": "2026-07-29"
+    },
+    {
+      "trend_id": "trend_7c4e580e425e",
+      "trend_name": "专业运动科技从研发投入转向可量化的商品增长",
+      "description": "李宁的稳增长越来越依赖专业跑步、女子综训和研发成果商业化，而非单纯扩大门店与促销规模。",
+      "related_item_ids": [
+        "item_c4fce8a7b930"
+      ],
+      "sections": [
+        "运动穿搭"
+      ],
+      "brands": [
+        "李宁"
+      ],
+      "platforms": [],
+      "first_seen_at": "2026-08-21",
+      "last_updated_at": "2026-08-21"
     },
     {
       "trend_id": "trend_10bef199a3f7",
@@ -1409,6 +1426,23 @@
       "last_updated_at": "2026-07-26"
     },
     {
+      "trend_id": "trend_e60e9fbc450b",
+      "trend_name": "国产运动品牌用渠道提质与新兴市场替代粗放门店增长",
+      "description": "361°正以儿童、电商和海外市场抬高增长上限，同时用少开低效店、扩超品店和升级门店形象重做分销效率。",
+      "related_item_ids": [
+        "item_fdd9bb21b533"
+      ],
+      "sections": [
+        "运动穿搭"
+      ],
+      "brands": [
+        "361度"
+      ],
+      "platforms": [],
+      "first_seen_at": "2026-08-21",
+      "last_updated_at": "2026-08-21"
+    },
+    {
       "trend_id": "trend_e7a8e3d2f5f6",
       "trend_name": "国货美妆把上游原料和技术备案做成新护城河",
       "description": "中国美妆的上游竞争正在从营销话术转向原料备案和技术壁垒。",
@@ -1703,6 +1737,24 @@
       "last_updated_at": "2026-08-11"
     },
     {
+      "trend_id": "trend_2830269cbdee",
+      "trend_name": "户外集团的增长重心从单一高端服饰转向多品牌鞋服协同",
+      "description": "萨洛蒙正在从滑雪硬件品牌转成亚玛芬的全球鞋服增长引擎，中国高效门店、Sportstyle和专业跑步渠道共同放大势能。",
+      "related_item_ids": [
+        "item_c7d45a79f5b4"
+      ],
+      "sections": [
+        "运动穿搭"
+      ],
+      "brands": [
+        "始祖鸟",
+        "萨洛蒙"
+      ],
+      "platforms": [],
+      "first_seen_at": "2026-08-21",
+      "last_updated_at": "2026-08-21"
+    },
+    {
       "trend_id": "trend_942c6ab4555b",
       "trend_name": "抖音现货经营",
       "description": "抖音电商继续把流量扶持绑定履约能力，内容电商的增长门槛正在转向现货供给。",
@@ -1831,6 +1883,23 @@
       "platforms": [],
       "first_seen_at": "2026-08-10",
       "last_updated_at": "2026-08-10"
+    },
+    {
+      "trend_id": "trend_f515ffe45ba0",
+      "trend_name": "标准化体能赛事成为健身房与品牌共同经营的消费入口",
+      "description": "HYROX把健身课程、标准化赛事和社交传播连成增长飞轮，但快速扩张正把安全与品控推到商业模型的核心。",
+      "related_item_ids": [
+        "item_7027b3454eec"
+      ],
+      "sections": [
+        "运动穿搭"
+      ],
+      "brands": [
+        "HYROX"
+      ],
+      "platforms": [],
+      "first_seen_at": "2026-08-21",
+      "last_updated_at": "2026-08-21"
     },
     {
       "trend_id": "trend_173948fb9901",
@@ -2147,6 +2216,23 @@
       "platforms": [],
       "first_seen_at": "2026-08-11",
       "last_updated_at": "2026-08-11"
+    },
+    {
+      "trend_id": "trend_8c29e9f84e1b",
+      "trend_name": "签约运动员合作从短期曝光转向社区基础设施与长期参与",
+      "description": "运动员中国行正在从见面会升级为球场基础设施、校际交流和地方文化共创，以长期项目积累篮球社群。",
+      "related_item_ids": [
+        "item_ba1a164516e8"
+      ],
+      "sections": [
+        "运动穿搭"
+      ],
+      "brands": [
+        "李宁"
+      ],
+      "platforms": [],
+      "first_seen_at": "2026-08-21",
+      "last_updated_at": "2026-08-21"
     },
     {
       "trend_id": "trend_88413989e39f",
@@ -2725,6 +2811,25 @@
       "last_updated_at": "2026-07-29"
     },
     {
+      "trend_id": "trend_abde6b33d87b",
+      "trend_name": "跑鞋品类增长从单一性能需求转向运动与日常穿搭双轮驱动",
+      "description": "美国跑鞋增长同时来自真实运动需求和休闲穿搭，但品牌增速、渠道与产品周期开始明显分化。",
+      "related_item_ids": [
+        "item_f32326d81c56"
+      ],
+      "sections": [
+        "运动穿搭"
+      ],
+      "brands": [
+        "Asics",
+        "Brooks",
+        "Hoka"
+      ],
+      "platforms": [],
+      "first_seen_at": "2026-08-21",
+      "last_updated_at": "2026-08-21"
+    },
+    {
       "trend_id": "trend_6e8fcd8676ab",
       "trend_name": "跨境低价电商增长溢价重估",
       "description": "中国电商 Shein 的香港上市进入冲刺，但流量降速、利润回落与低价跨境监管正在重估其增长溢价。",
@@ -2875,6 +2980,24 @@
       "last_updated_at": "2026-08-14"
     },
     {
+      "trend_id": "trend_5c61eb6604ec",
+      "trend_name": "运动零售从大牌休闲鞋依赖转向性能与户外货盘重构",
+      "description": "JD Sports的下调指引显示年轻消费者正减少非必需球鞋支出，零售商必须从大牌休闲鞋转向户外、性能和更分散的品牌组合。",
+      "related_item_ids": [
+        "item_d454792a6f70"
+      ],
+      "sections": [
+        "运动穿搭"
+      ],
+      "brands": [
+        "JDSports",
+        "Nike"
+      ],
+      "platforms": [],
+      "first_seen_at": "2026-08-21",
+      "last_updated_at": "2026-08-21"
+    },
+    {
       "trend_id": "trend_c740e9140e62",
       "trend_name": "逆向物流从成本中心转向可交易库存池",
       "description": "二手平台把无法投递包裹重新上架，逆向物流正在被产品化为库存回收机制。",
@@ -3021,6 +3144,23 @@
       "platforms": [],
       "first_seen_at": "2026-08-14",
       "last_updated_at": "2026-08-14"
+    },
+    {
+      "trend_id": "trend_fe6fe38ac19f",
+      "trend_name": "顶级赛事营销从场内赞助扩展为跨城市粉丝消费网络",
+      "description": "美网已从曝光场变成覆盖制服、零售、酒店、健康教育、支付权益和收藏品的城市级营销系统。",
+      "related_item_ids": [
+        "item_68bb2ea1739e"
+      ],
+      "sections": [
+        "运动穿搭"
+      ],
+      "brands": [
+        "RalphLauren"
+      ],
+      "platforms": [],
+      "first_seen_at": "2026-08-21",
+      "last_updated_at": "2026-08-21"
     },
     {
       "trend_id": "trend_372ae61080f4",
